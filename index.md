@@ -1,8 +1,16 @@
-About Me
+# About Me
 
 Greetings! I'm Jeremy Pugh, a meticulous technical writer driven by a passion for creating clear, concise, and user-friendly documentation for global Fortune 500 companies. With a background in Management Information Systems and Business Administration, coupled with a Google Career Certificate in Project Management and Cybersecurity, I bring a versatile skill set to the table.
 
-Skills:
+---
+
+# Objective
+
+I am currently seeking opportunities to leverage my expertise in a challenging environment that values innovative approaches to technical writing. With a focus on project leadership, content strategy, and result measurement, I am eager to contribute to the success of forward-thinking organizations.
+
+---
+
+## Skills
 
 Agile
 git
@@ -12,7 +20,10 @@ Contentful
 Jira
 Markdown
 Zendesk
-Experience:
+
+---
+
+## Experience
 
 Cruise, Remote — Lead Technical Writer, Physical Security
 September 2023 - Present
@@ -29,7 +40,3 @@ At Cloudflare, I authored public-facing incident reports for Fortune 500 custome
 Dell Technologies, San Francisco — Senior Software Engineer
 September 2014 - February 2017
 As a Senior Software Engineer at Dell Technologies, I showcased our private cloud product at OpenStack conferences and led Agile team sprints. I resolved critical issues with customer deployments and contributed to enhancing product documentation for clarity and accuracy.
-
-Objective:
-
-I am currently seeking opportunities to leverage my expertise in a challenging environment that values innovative approaches to technical writing. With a focus on project leadership, content strategy, and result measurement, I am eager to contribute to the success of forward-thinking organizations.
