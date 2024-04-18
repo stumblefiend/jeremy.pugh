@@ -12,14 +12,14 @@ I am currently seeking opportunities to leverage my expertise in a challenging e
 
 ## Skills
 
-Agile
-git
-Linux
-Python
-Contentful
-Jira
-Markdown
-Zendesk
+- Agile
+- git
+- Linux
+- Python
+- Contentful
+- Jira
+- Markdown
+- Zendesk
 
 ---
 
