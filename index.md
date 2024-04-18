@@ -2,7 +2,7 @@
 
 Greetings! I'm Jeremy Pugh, a meticulous technical writer driven by a passion for creating clear, concise, and user-friendly documentation for global Fortune 500 companies. With a background in Management Information Systems and Business Administration, coupled with a Google Career Certificate in Project Management and Cybersecurity, I bring a versatile skill set to the table.
 
-[See some of my thoughts on the Technical Writing field](https://stumblefiend.github.io/jeremy.pugh/blog.md).
+[See some of my thoughts on the Technical Writing field](https://stumblefiend.github.io/jeremy.pugh/blog.html).
 
 ---
 
