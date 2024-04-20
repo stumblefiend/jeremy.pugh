@@ -2,7 +2,7 @@
 layout: post
 title:  "Unlocking Clarity: The Power of Flesch-Kincaid Reading Scores and Time-to-Read Metrics in Technical Writing"
 author: sal
-categories: [ tutorial ]
+categories: [ metrics ]
 image: assets/images/17.jpg
 tags: [featured]
 ---
