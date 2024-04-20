@@ -17,7 +17,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-
+  
+authors:
     jeremy:
       name:           Jeremy
       site:           https://www.wowthemes.net
