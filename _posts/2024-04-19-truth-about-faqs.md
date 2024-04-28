@@ -27,11 +27,11 @@ While FAQs can provide a temporary solution, they come with several drawbacks th
 - Static Nature: FAQs are often static documents that may become outdated as products or services evolve. Without regular updates, they can lead to misinformation and frustration among users.
 - Searchability Issues: Users may struggle to find relevant FAQs if they are buried within a website or poorly indexed. This can result in redundant support requests and increased workload for customer service teams.
 - Dependency on Users: FAQs rely on users to identify and report common issues. This passive approach to documentation can overlook underlying usability issues that require proactive intervention.
+- Blackhole Content: FAQs become lazy catchalls for content. You hear engineers, product managers, and even other technical writers say "just put it in the FAQ" until there is a whole amalgam of mismatched topics.
 
-## When Are FAQs Actually Useful?
+## When Are FAQs Useful?
 While FAQs are primarily a band-aid solution, there are rare instances where they can serve a genuine purpose:
 
-- Supplementing Comprehensive Documentation: In addition to comprehensive user guides, well-crafted FAQs can offer quick answers to common queries, enhancing the overall user experience.
 - Temporary Solutions: During product launches or major updates when comprehensive documentation may not be immediately available, FAQs can provide temporary support until more robust resources are developed.
 - Complex Products or Services: In cases where products or services are inherently complex, FAQs can complement documentation by addressing specific user pain points or edge cases.
 
