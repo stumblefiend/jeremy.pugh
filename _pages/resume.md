@@ -35,6 +35,8 @@ I am currently seeking opportunities to leverage my expertise in a challenging e
 
 ### Degrees
 
+University of Alabama, Huntsville
+
 - MS in Management Information Systems - 2007
 - BS in Business Administration - 2005
 
