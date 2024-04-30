@@ -3,7 +3,7 @@ layout: post
 title:  "Technical Writing Job Search: The Power of Contributing to Company Repositories"
 author: jeremy
 categories: [ job, career ]
-image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
+image: assets/images/repository.png
 ---
 
 Are you a technical writer looking to stand out in a competitive job market? Are you eager to demonstrate your skills and commitment to potential employers? Look no further – actively contributing to company repositories and documentation could be the game-changer you've been searching for.
