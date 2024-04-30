@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Truth About FAQs: A Band-Aid Solution for Documentation Woes"
+title:  "The Facts About FAQs: A Band-Aid for Documentation Woes"
 author: jeremy
 categories: [ faqs, worst practices ]
 image: /assets/images/faq-band-aid.png
