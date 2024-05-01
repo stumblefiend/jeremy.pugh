@@ -3,7 +3,7 @@ layout: post
 title:  "Enhancing Product Documentation: Thoughtful Page Feedback Mechanisms"
 author: jeremy
 categories: [ user feedback, metrics ]
-image: assets/images/feedback-mechanisms.png
+image: assets/images/feedback-mechanisms.jpg
 ---
 
 In the realm of product documentation, the value of user feedback cannot be overstated. It serves as a compass, guiding technical writers toward clarity, relevance, and user-centricity. However, not all feedback mechanisms are created equal. While simplistic "thumbs up" or "thumbs down" ratings might seem convenient, they often fail to capture the nuances of user experience, leading to skewed insights and missed opportunities for improvement.
