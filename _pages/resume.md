@@ -4,6 +4,8 @@ layout: default
 permalink: "/resume.html"
 ---
 
+<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
+
 # About Me
 
 Greetings! I'm Jeremy Pugh, a meticulous technical writer driven by a passion for creating clear, concise, and user-friendly documentation for global Fortune 500 companies. With a background in Management Information Systems and Business Administration, coupled with a Google Career Certificate in Project Management and Cybersecurity, I bring a versatile skill set to the table.
