@@ -22,7 +22,7 @@ authors:
     jeremy:
       name:           Jeremy
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/profile-pic.jpg
+      avatar:         assets/images/profile-pic.jpg
       bio:            "Word nerd, metrics addict, and recovering poet."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
