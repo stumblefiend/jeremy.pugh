@@ -3,7 +3,7 @@ layout: post
 title:  "The Facts About FAQs: A Band-Aid for Documentation Woes"
 author: jeremy
 categories: [ faqs, worst practices ]
-image: assets/images/faq-band-aid.jpeg
+image: assets/images/faq-band-aid.webp
 tags: [summer]
 ---
 
