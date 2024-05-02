@@ -21,6 +21,6 @@ Program Charter
 - [New Relic](/assets/docs/charter-internal-docs.pdf)
 
 UX writing & design
-- [Cloudflare SSL/TLS Tab](/assets/docs/cloudflare-ssl-tab.png)
+- [Cloudflare SSL/TLS Tab](/assets/images/cloudflare-ssl-tab.png)
 
 I have many other examples I can provide such as job aids, references, API documentation, UX writing that are all available upon request.
