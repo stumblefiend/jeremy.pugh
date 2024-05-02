@@ -3,7 +3,7 @@ layout: post
 title:  "The Power of SEO Strategies for Tech Writers"
 author: jeremy
 categories: [ seo, best practices ]
-image: assets/images/repository.png
+image: assets/images/seo.jpg
 ---
 
 Technical writers often don’t think about it, but their role transcends mere documentation. Technical writers wield a unique power to shape the narrative of a product, influencing its visibility and accessibility to the target audience. Incorporating Search Engine Optimization (SEO) strategies into product content is not just a choice but a necessity in today's competitive market. 
