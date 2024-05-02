@@ -25,6 +25,9 @@ Program Charter
 UX writing & design
 - [Cloudflare SSL/TLS Tab](/assets/images/ssl-ui.png)
 
-
 API Documentation
 -
+
+Poems
+- [a fantasia](/assets/docs/a-fantasia.pdf)
+- [Bible Versus](/assets/docs/bible-versus.pdf)
