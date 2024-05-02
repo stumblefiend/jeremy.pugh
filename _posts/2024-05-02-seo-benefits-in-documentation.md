@@ -8,7 +8,7 @@ image: assets/images/seo.jpg
 
 Technical writers often don’t think about it, but their role transcends mere documentation. Technical writers wield a unique power to shape the narrative of a product, influencing its visibility and accessibility to the target audience. Incorporating Search Engine Optimization (SEO) strategies into product content is not just a choice but a necessity in today's competitive market. 
 
-At New Relic, improving our SEO helped us standardize terminology and drive more conversions through product documentation. It also helped the accessibility of our documentation. Of course, there are some drawbacks to note, but first, let's delve into why tech writers should embrace SEO tactics:
+At New Relic, improving our SEO helped us standardize terminology and drive more conversions through product documentation. It also helped the accessibility of our documentation. Of course, there are some drawbacks to note, but first, let's delve into why tech writers should embrace SEO tactics.
 
 # The Benefits of SEO in Product Documentation
 
