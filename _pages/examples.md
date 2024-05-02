@@ -11,6 +11,10 @@ See some examples of public documentation I've worked on:
 - New Relic - Cells [MHTML (recommended)](/assets/docs/cells-new-relic.mhtml) or [PDF (more secure but inaccurate styling)](/assets/docs/cells-new-relic.pdf)
 - New Relic - Internal Documentation Style Guide [MHTML (recommended)](/assets/docs/style-guide.mhtml) or [PDF (more secure but inaccurate styling)](/assets/docs/style-guide.pdf)
 
-- [Internal Blog Post - New Relic](/assets/docs/design-changes.pdf)
+Blog Post
+- [New Relic](/assets/docs/design-changes.pdf)
+
+Program Charter
+- [New Relic](/assets/docs/charter-internal-docs.pdf)
 
 I have many other examples I can provide such as job aids, references, API documentation, UX writing that are all available upon request.
