@@ -6,7 +6,11 @@ categories: [ job, career ]
 image: assets/images/repository.png
 ---
 
-Are you a technical writer looking to stand out in a competitive job market? Are you eager to demonstrate your skills and commitment to potential employers? Look no further – actively contributing to company repositories and documentation could be the game-changer you've been searching for.
+Are you a technical writer looking to stand out in a competitive job market? Are you eager to demonstrate your skills and commitment to potential employers? Look no further – actively contributing to company repositories and documentation could be the game-changer you've been searching for. I know it has helped me impress companies in the past. I was even told by one docs manager that I was at the top of their list of 5 candidates because I'd already been doing my homework and getting to know their processes, systems, and documentation.
+
+The commits don't have to be large but must be meaningful and should demonstrate what insights you have to offer. For instance, at New Relic, I made a simple page that removed a repeat word and that was enough for the hiring manager to take note and mention they were impressed with the commit in my interview. Pro tip: ensure you make the commit from a GitHub account that matches your name and not an account with a made-up username.
+
+What if there is no docs repo? If a company doesn't have an opensource doc site, find an open source repo of theirs and simply clean up the readme or contribution guidelines in one of their code repos. You'd be surprised how grateful they will be to have clearer instructions!
 
 ## Why Does it Matter?
 
