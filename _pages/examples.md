@@ -3,7 +3,7 @@ title: "Examples"
 permalink: "/examples.html"
 ---
 
-Here are examples of documents I've created. In the examples below, downloading the MHTML is recommended as it preserves styling and any collapser functionality. However, PDF options are provided for better security.
+This page contains examples of content I've created. I've provided MHTML and PDF options for several of the examples. Viewing the MHTML preserves the document styling and functionality. Alternatively, the PDF format provides better security and quicker review.
 
  **General Documentation**
 - Cloudflare - 1XXX Errors [[MHTML](/assets/docs/1xxx.mhtml) or [PDF](/assets/docs/1xxx.pdf)]
