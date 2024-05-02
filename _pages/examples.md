@@ -7,6 +7,7 @@ Here are examples of documents I've created. In the examples below, downloading 
 
 General Documentation
 - Cloudflare 1XXX Errors [[MHTML](/assets/docs/1xxx.mhtml) or [PDF](/assets/docs/1xxx.pdf)]
+- Cloudflare - Load Balancer API [[MHTML](/assets/docs/api.mhtml) or [PDF](/assets/docs/api.pdf)]
 - New Relic - Increase User Engagement [[MHTML](/assets/docs/engagement.mhtml) or [PDF](/assets/docs/engagement.pdf)]
 - New Relic - Cells [[MHTML](/assets/docs/cells-new-relic.mhtml) or [PDF](/assets/docs/cells-new-relic.pdf)]
 
@@ -24,9 +25,6 @@ Program Charter
 
 UX writing & design
 - [Cloudflare SSL/TLS Tab](/assets/images/ssl-ui.png)
-
-API Documentation
--
 
 Poems
 - [a fantasia](/assets/docs/a-fantasia.pdf)
