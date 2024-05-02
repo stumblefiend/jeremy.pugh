@@ -26,6 +26,9 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 **UX writing & design**
 - [Cloudflare SSL/TLS Tab](/assets/images/ssl-ui.png)
 
+**Video Scripts**
+- [Cloudflare Bot Management](https://www.youtube.com/watch?v=dAl1LG7Odg4)
+
 **Poems**
 - [a fantasia](/assets/docs/a-fantasia.pdf)
 - [Bible Versus](/assets/docs/bible-versus.pdf)
