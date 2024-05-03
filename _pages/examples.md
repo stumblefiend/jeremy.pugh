@@ -18,7 +18,8 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 ---
 
 **2 years of experience**
-*Public Incident Report*
+
+*Public Incident Report* (I've authored over 200 incident reports, typically to individual Fortune 500 customers.)
 - [Cloudflare outage (posted by our CTO)](/assets/docs/incident-report.pdf)
 
 *Style Guide*
@@ -30,18 +31,20 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 ---
 
 **1 year of experience**
+
 *Program Charter*
 - [New Relic](/assets/docs/charter-internal-docs.pdf)
 
 *UX writing & design*
 - [Cloudflare SSL/TLS Tab](/assets/images/ssl-ui.png)
 
-*Video Scripts*
+*Video Script*
 - [Cloudflare Bot Management](https://www.youtube.com/watch?v=dAl1LG7Odg4)
 
 ---
 
 **7 years of experience**
+
 *Poems*
 - [a fantasia](/assets/docs/a-fantasia.pdf)
 - [Bible Versus](/assets/docs/bible-versus.pdf)
