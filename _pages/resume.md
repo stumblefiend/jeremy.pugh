@@ -9,7 +9,7 @@ Meticulous technical writer dedicated to metric-based approaches to clear, conci
 
 ---
 
-## Skills
+# Skills
 
 **12 years**
 - Linux
@@ -46,16 +46,16 @@ Meticulous technical writer dedicated to metric-based approaches to clear, conci
 
 ---
 
-## Education
+# Education
 
-### Degrees
+**Degrees**
 
 University of Alabama, Huntsville
 
 - MS in Management Information Systems - 2007
 - BS in Business Administration - 2005
 
-### Certificates
+**Certificates**
 
 - IBM AI Developer - 2024
 - Google Career Certificate in Project Management - 2023
@@ -63,9 +63,9 @@ University of Alabama, Huntsville
 
 ---
 
-## Experience
+# Work Experience
 
-Allied Universal, Remote — Lead Technical Writer, Physical Security
+**Allied Universal, Remote** — *Lead Technical Writer, Physical Security*
 September 2023 - Present
 Oversaw the management of training content, Post Orders, and Standard Operating Procedures (SOPs) for global security staff and security operations centers. I've spearheaded initiatives to streamline processes, reduce maintenance overhead, and enhance readability scores, ultimately optimizing operational efficiency.
 
@@ -74,8 +74,9 @@ Oversaw the management of training content, Post Orders, and Standard Operating 
 - Improved Flesch-Kincaid reading scores and time-to-read in over 200 SOPs and Post Orders by 45% and 40% respectively.
 - Created a newsletter program to ensure security staff stay current with events and changes to the security program.
 
-New Relic, Remote — Senior Technical Writer, Engineering
+**New Relic, Remote** — *Senior Technical Writer, Engineering*
 April 2021 - August 2023
+Promotions: Technical Writer --> Senior Technical Writer
 Played a pivotal role in maintaining critical internal platform documentation for a team of 1,000 engineers. From defining content standards to conducting user research, I focused on enhancing knowledge management and improving internal content search accuracy.
 
 - Maintained critical internal platform documentation for 1,000 engineers.
@@ -91,7 +92,7 @@ Played a pivotal role in maintaining critical internal platform documentation fo
 - Reported program status and metrics to General Managers.
 - Measured the health and impact of the knowledge-management program through surveys, Google Analytics, and Flesch-Kincaid reading scores.
 
-Cloudflare, San Francisco — Content Designer, Technical Writer
+**Cloudflare, San Francisco** — *Content Designer, Technical Writer*
 February 2017 - March 2021
 Authored public-facing incident reports for Fortune 500 customers, published UI microcopy, and revamped Zendesk support guides into Contentful articles. My collaborative approach with subject matter experts ensured an accurate and relevant knowledge base for our users.
 
@@ -101,8 +102,9 @@ Authored public-facing incident reports for Fortune 500 customers, published UI 
 - Developed and implemented processes for creating and maintaining knowledgebase content in collaboration with subject matter experts.
 - Worked with subject matter experts and the Cloudflare community to ensure an accurate and relevant knowledge base.
 
-Dell Technologies, San Francisco — Senior Software Engineer
+**Dell Technologies, San Francisco** — *Senior Software Engineer*
 September 2014 - February 2017
+Promotions: Technical Support Engineer --> Software Engineer --> Senior Software Engineer
 Showcased our private cloud product at OpenStack conferences and led Agile team sprints. I helped build the foundations of our product and resolved critical issues with customer deployments.
 
 - Presented the company’s private cloud product at OpenStack conferences.
@@ -111,8 +113,9 @@ Showcased our private cloud product at OpenStack conferences and led Agile team 
 - Updated Docker, Ansible, Bash, and Python code in Stash.
 - Reviewed product documentation for clarity and accuracy.
 
-Ad Revolution, Los Angeles - Director of Email Marketing
+**Ad Revolution, Los Angeles** - *Director of Email Marketing*
 January 2008 - September 2014
+Promotions: Engineer --> Sr. Engineer --> Manager of Email Marketing --> Director of Email Marketing
 Achieved $3.9M monthly revenue in Email Marketing from inception. Created and led a team to develop and execute targeted campaigns, while analyzing performance and presenting results to management.
 
 - Grew Email Marketing revenue from $0 to $3.9M per month.
@@ -127,7 +130,16 @@ Achieved $3.9M monthly revenue in Email Marketing from inception. Created and le
 
 ---
 
-## Volunteer Experience
+# Part-time Work Experience
+
+**Remotasks, Remote** — *AI Poetry Expert*
+APRIL 2023 - JANUARY 2024
+- Revised AI-generated poetry to train AI models on traditional poet styles and poetry forms.
+- Wrote poetry prompts and critiqued AI responses for accuracy, tone, helpfulness, and presentation.
+
+---
+
+# Volunteer Experience
 
 - Marin Poetry Center (MPC) board of directors, Apr. 2023 - Jan. 2024
 - Volunteer poetry and writing tutor for 826 Valencia, Oct. 2019 - Mar. 2020
@@ -138,6 +150,6 @@ Achieved $3.9M monthly revenue in Email Marketing from inception. Created and le
 
 ---
 
-## Hobbies
+# Hobbies
 
 Poetry, Hiking, Anything outdoors
