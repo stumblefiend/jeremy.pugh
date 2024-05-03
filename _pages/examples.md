@@ -8,6 +8,7 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 ---
 
  ### 5+ years of experience
+ 
  **General Documentation**
 - Cloudflare - 1XXX Errors [[MHTML](/assets/docs/1xxx.mhtml) or [PDF](/assets/docs/1xxx.pdf)]
 - Cloudflare - Load Balancer API [[MHTML](/assets/docs/api.mhtml) or [PDF](/assets/docs/api.pdf)]
