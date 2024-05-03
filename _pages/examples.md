@@ -17,10 +17,14 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 
 ---
 
-**2 years of experience**
+**3 years of experience**
 
 *Public Incident Report* (I've authored over 200 incident reports, typically to individual Fortune 500 customers.)
 - [Cloudflare outage (posted by our CTO)](/assets/docs/incident-report.pdf)
+
+---
+
+**2 years of experience**
 
 *Style Guide*
 - New Relic - Internal Documentation Style Guide [[MHTML](/assets/docs/style-guide.mhtml) or [PDF](/assets/docs/style-guide.pdf)]
@@ -40,6 +44,9 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 
 *Video Script*
 - [Cloudflare Bot Management](https://www.youtube.com/watch?v=dAl1LG7Odg4)
+
+*Newsletter*
+- Cruise AV Newsletter for the Global Security team [[MHTML](/assets/docs/cruise-newsletter.mhtml) or [PDF](/assets/docs/cruise-newsletter.pdf)]
 
 ---
 
