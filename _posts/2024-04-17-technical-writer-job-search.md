@@ -6,13 +6,13 @@ categories: [ job, career ]
 image: assets/images/repository.png
 ---
 
-Are you a technical writer looking to stand out in a competitive job market? Are you eager to demonstrate your skills and commitment to potential employers? Look no further – actively contributing to company repositories and documentation could be the game-changer you've been searching for. I know it has helped me impress companies in the past. I was even told by one docs manager that I was at the top of their list of 5 candidates because I'd already been doing my homework and getting to know their processes, systems, and documentation.
+Are you a technical writer looking to stand out in a competitive job market? Are you eager to demonstrate your skills and commitment to potential employers? Look no further – actively contributing to company repositories and documentation could be the game-changer you've been searching for. Committing to company repos has helped me impress companies in the past. Recently, I was told by one docs manager that I was at the top of their list of 5 candidates because I'd already been doing my homework and getting to know their processes, systems, and documentation.
 
-The commits don't have to be large but must be meaningful and should demonstrate what insights you have to offer. For instance, at New Relic, I made a simple page that removed a repeat word and that was enough for the hiring manager to take note and mention they were impressed with the commit in my interview. Pro tip: ensure you make the commit from a GitHub account that matches your name and not an account with a made-up username.
+The commits don't have to be large but must be meaningful and should demonstrate what insights you have to offer. For instance, at New Relic, I made a simple page that removed a repeat word and that was enough for the hiring manager to take note and mention they were impressed with the commit in my interview. Pro tip: ensure you make the commit from a GitHub account that matches your name and not an account with a made-up username. Plus, you don't have to make the commit until you have secured your first interview.
 
-What if there is no docs repo? If a company doesn't have an opensource doc site, find an open source repo of theirs and simply clean up the readme or contribution guidelines in one of their code repos. You'd be surprised how grateful they will be to have clearer instructions!
+What if there is no public docs repo? If a company doesn't have an open source doc site, find any open source repo the company maintains and clean up the readme or contribution guidelines in one of their code repos. You'd be surprised how grateful they will be to have clearer instructions! I got my contribution guidelines merged the next day with a huge thank you and you get to brag about how you are already creating value for the company. Plus, this is a great, positive talking point to mention during the interview. Of course, there are plenty of other benefits.
 
-## Why Does it Matter?
+## Benefits of Contribution
 
 ### Demonstrating Commitment
 
@@ -20,30 +20,15 @@ By engaging with a company's documentation repositories, you showcase your dedic
 
 ### Showcasing Skills
 
-Making commits to documentation repositories allows you to showcase your technical writing skills in a tangible and demonstrable manner. It provides concrete evidence of your ability to create clear, concise, and effective documentation that adds value to the organization's products or services.
+Committing to documentation repositories allows you to tangibly demonstrate your technical writing skills. It provides concrete evidence of your ability to create clear, concise, and effective documentation that adds value to the organization's products or services.
 
 ### Understanding Company Dynamics
 
-Contributing to company repositories gives you an opportunity to experience the collaborative dynamics within the organization. Through interactions with other team members during the review and approval process, you gain insights into the team's communication style, responsiveness, and overall working culture.
+Contributing to company repositories isn't just about showcasing your skills – it's also about gaining insights into the organization you're considering joining. By actively participating in documentation processes, you get a firsthand look at the company's working dynamics. You can observe how responsive team members are to each other, how they communicate, and how they collaborate on projects. This information is invaluable when evaluating whether a company is the right fit for you.
 
 ### Building Relationships
 
-Actively participating in the documentation process allows you to build relationships with other members of the team, including developers, product managers, and subject matter experts. These relationships are invaluable for a technical writer, as they facilitate collaboration and ensure the accuracy and relevance of the documentation.
+Actively participating in the documentation process allows you to build relationships with other members of the team, including developers, product managers, and subject matter experts. These relationships are invaluable for a technical writer, as they facilitate collaboration and ensure the accuracy and relevance of the documentation. You'll be surprised to find the people that interview you are the same ones you worked with on the commit!
 
-### Continuous Learning
-
-Engaging with company repositories keeps you updated on the latest developments and changes within the organization. It provides a firsthand opportunity to learn about new features, products, or updates, which in turn enhances the quality and relevance of the documentation you produce.
-
-### Take Action Today
-
-Don't wait for opportunities to come to you – seize them! Start by exploring the documentation repositories of companies you're interested in. Look for ways to contribute, whether it's by fixing typos, clarifying instructions, or suggesting improvements.
-By actively participating in company repositories, you not only demonstrate your skills and commitment but also gain invaluable insights into the organization's culture and dynamics. It's a win-win situation that can elevate your technical writing career to new heights.
+In summary, don't wait for opportunities to come to you – seize them! Start by exploring the documentation repositories of companies you're interested in. Look for ways to contribute, whether it's by fixing typos, clarifying instructions, or suggesting improvements. By actively participating in company repositories, you not only demonstrate your skills and commitment but also gain invaluable insights into the organization's culture and dynamics. It's a win-win situation that can elevate your technical writing career to new heights.
 So what are you waiting for? Start making commits today and unlock a world of opportunities in the world of technical writing.
-
-## What's in it for You?
-
-### Evaluate Company Dynamics
-Contributing to company repositories isn't just about showcasing your skills – it's also about gaining insights into the organization you're considering joining. By actively participating in documentation processes, you get a firsthand look at the company's working dynamics. You can observe how responsive team members are to each other, how they communicate, and how they collaborate on projects. This information is invaluable when evaluating whether a company is the right fit for you.
-
-### Expand Your Network
-As you engage with company repositories, you'll encounter a variety of team members, including developers, product managers, and subject matter experts. Take note of these individuals – they represent potential connections that can expand your professional network. By seeing their names in the documentation process, you have an easy way to find and connect with them on LinkedIn. Building these relationships can open doors to new opportunities and collaborations in the future.
