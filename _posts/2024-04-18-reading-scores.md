@@ -7,7 +7,11 @@ image: assets/images/transparent-open-book.webp
 tags: [featured]
 ---
 
-In technical writing, clarity is king. Whether it's crafting user manuals, API documentation, or knowledge base articles, the goal is always the same: convey complex information in a clear, concise, and understandable manner. That's where tools like Flesch-Kincaid reading scores and time-to-read metrics come into play, providing insights into the readability and accessibility of written content.
+In technical writing, clarity is king. Whether crafting user manuals, API documentation, or knowledge base articles, the goal is always the same: convey complex information in a clear, concise, and understandable manner. That's where tools like Flesch-Kincaid reading scores and time-to-read metrics come into play, providing insights into the readability and accessibility of written content.
+
+Clients I've worked with love me to demonstrate metrics on how I've improved the readability of their content. I've even had my boss's boss laud such improvements to their boss on a project I was working on via Allied Universal with the Cruise Automated Vehicle physical security team. However, such metrics aren't meant to be followed blindly. Otherwise, you end up turning "Encyclopedia" into "book" and lose tremendous meaning and context. Plus, you have to make hundreds of decisions which take time: does "facility" become "site"? Do "employees" become "staff"? Does "information" become "details"?
+
+There are online tools like [charactercalculator.com](https://charactercalculator.com/flesch-reading-ease/) that help calculate reading scores.
 
 ## Understanding Flesch-Kincaid Reading Scores
 
@@ -16,10 +20,8 @@ In technical writing, aiming for a lower Flesch-Kincaid reading score can greatl
 
 ## Measuring Time-to-Read Metrics
 
-Time-to-read metrics provide another layer of insight into the readability and user-friendliness of written content. By estimating the amount of time it takes for an average reader to consume a piece of text, these metrics offer a tangible indication of content complexity and readability. A shorter time-to-read suggests that the content is concise, well-structured, and easy to digest, while a longer time-to-read may indicate dense, convoluted, or overly verbose writing.
-In the fast-paced world of technology, where users are often pressed for time and attention spans are limited, optimizing time-to-read is crucial for engaging and retaining readers. Technical writers can use this metric to identify areas where content may be overly verbose or complex, allowing them to streamline and simplify the writing to improve user comprehension and retention.
-
-## The Impact on User Experience
+Time-to-read metrics provide another layer of insight into the readability and user-friendliness of written content. By estimating the amount of time it takes for an average reader to consume a piece of text, these metrics offer a tangible indication of content complexity and readability. A shorter time-to-read suggests that the content is concise, well-structured, and easy to digest, while a longer time-to-read may indicate dense, convoluted, or overly verbose writing. 
+In the fast-paced world of technology, where users are often pressed for time and attention spans are limited, optimizing time-to-read is crucial for engaging and retaining readers. Technical writers can use this metric to identify areas where content may be overly verbose or complex, allowing them to streamline and simplify the writing to improve user comprehension and retention. It's a good idea to set a time-to-read threshold for your documentation so you know when to question when the content may be too large and complex and require review.
 
 Ultimately, the goal of technical writing is to enhance the user experience by providing clear, concise, and easily understandable documentation. By leveraging tools like Flesch-Kincaid reading scores and time-to-read metrics, technical writers can optimize their content for maximum clarity and accessibility, ensuring that users can quickly find the information they need and understand it with minimal effort.
 In a world where information overload is a constant challenge, readability and user-friendliness are more important than ever. By prioritizing clarity and accessibility in their documentation, technical writers can empower users to make the most of technology, drive adoption and satisfaction, and ultimately contribute to the success of the products and services they support.
