@@ -67,6 +67,7 @@ University of Alabama, Huntsville
 
 **Allied Universal, Remote** — *Lead Technical Writer, Physical Security*
 September 2023 - Present
+
 Oversaw the management of training content, Post Orders, and Standard Operating Procedures (SOPs) for global security staff and security operations centers. I've spearheaded initiatives to streamline processes, reduce maintenance overhead, and enhance readability scores, ultimately optimizing operational efficiency.
 
 - Managed training content, Post Orders, and Standard Operating Procedures (SOPs) for global security staff and security operations centers.
@@ -76,7 +77,9 @@ Oversaw the management of training content, Post Orders, and Standard Operating 
 
 **New Relic, Remote** — *Senior Technical Writer, Engineering*
 April 2021 - August 2023
+
 Promotions: Technical Writer --> Senior Technical Writer
+
 Played a pivotal role in maintaining critical internal platform documentation for a team of 1,000 engineers. From defining content standards to conducting user research, I focused on enhancing knowledge management and improving internal content search accuracy.
 
 - Maintained critical internal platform documentation for 1,000 engineers.
@@ -94,6 +97,7 @@ Played a pivotal role in maintaining critical internal platform documentation fo
 
 **Cloudflare, San Francisco** — *Content Designer, Technical Writer*
 February 2017 - March 2021
+
 Authored public-facing incident reports for Fortune 500 customers, published UI microcopy, and revamped Zendesk support guides into Contentful articles. My collaborative approach with subject matter experts ensured an accurate and relevant knowledge base for our users.
 
 - Authored ~200 public-facing incident reports for Fortune 500 customers.
@@ -104,7 +108,9 @@ Authored public-facing incident reports for Fortune 500 customers, published UI 
 
 **Dell Technologies, San Francisco** — *Senior Software Engineer*
 September 2014 - February 2017
+
 Promotions: Technical Support Engineer --> Software Engineer --> Senior Software Engineer
+
 Showcased our private cloud product at OpenStack conferences and led Agile team sprints. I helped build the foundations of our product and resolved critical issues with customer deployments.
 
 - Presented the company’s private cloud product at OpenStack conferences.
@@ -115,7 +121,9 @@ Showcased our private cloud product at OpenStack conferences and led Agile team 
 
 **Ad Revolution, Los Angeles** - *Director of Email Marketing*
 January 2008 - September 2014
+
 Promotions: Engineer --> Sr. Engineer --> Manager of Email Marketing --> Director of Email Marketing
+
 Achieved $3.9M monthly revenue in Email Marketing from inception. Created and led a team to develop and execute targeted campaigns, while analyzing performance and presenting results to management.
 
 - Grew Email Marketing revenue from $0 to $3.9M per month.
