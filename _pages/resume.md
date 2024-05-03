@@ -3,30 +3,46 @@ title: "Resume"
 permalink: "/resume.html"
 ---
 
-# About Me
-
-Greetings! I'm Jeremy Pugh, a meticulous technical writer driven by a passion for creating clear, concise, and user-friendly documentation for global Fortune 500 companies. With a background in Management Information Systems and Business Administration, coupled with a Google Career Certificate in Project Management and Cybersecurity, I bring a versatile skill set to the table.
-
----
-
 # Objective
 
-I am currently seeking opportunities to leverage my expertise in a challenging environment that values innovative approaches to technical writing. With a focus on project leadership, content strategy, and result measurement, I am eager to contribute to the success of forward-thinking organizations.
+Meticulous technical writer dedicated to metric-based approaches to clear, concise, findable, and user-friendly documentation for global Fortune 500 companies. Adept in project leadership, content strategy, and result measurement. Seeking to leverage expertise in a challenging environment that requires entrepreneurial approaches.
 
 ---
 
 ## Skills
 
+**12 years**
+- Linux
+- Bash
+
+**10 years**
 - Agile
 - git
 - GitHub
-- AI
-- Linux
-- Python
-- Contentful
 - Jira
+  
+**5 years**
 - Markdown
+- Networking (OSPF, HAProxy, Load Balancing, Wireshark, DNS)
+- Security (WAF, IPtables, Firewalls, DDoS protection, SSL/TLS)  
+
+**3 years**
+- Python
+- HTML
+- Contentful
 - Zendesk
+- GitHub Pages
+- Jekyll
+- Liquid
+- Docker
+
+**2 years**
+- CSS
+- Javascript
+
+**1 year**
+- AI Development
+- Swiftype
 
 ---
 
@@ -82,7 +98,7 @@ Authored public-facing incident reports for Fortune 500 customers, published UI 
 - Authored ~200 public-facing incident reports for Fortune 500 customers.
 - Published UI microcopy, developer documentation, and video scripts.
 - Rewrote 1000 Zendesk support guides as 250 articles in Contentful. 
-- Developed and implemented processes for creating and maintaining knowledge-base content in collaboration with subject matter experts.
+- Developed and implemented processes for creating and maintaining knowledgebase content in collaboration with subject matter experts.
 - Worked with subject matter experts and the Cloudflare community to ensure an accurate and relevant knowledge base.
 
 Dell Technologies, San Francisco — Senior Software Engineer
@@ -117,7 +133,7 @@ Achieved $3.9M monthly revenue in Email Marketing from inception. Created and le
 - Volunteer poetry and writing tutor for 826 Valencia, Oct. 2019 - Mar. 2020
 - MPC school poetry anthology and contest coordinator, Aug. 2018 - Aug. 2020
 - Senior Submission Reader for E&GJ Press, Sept. 2018 - Mar. 2020
-- Chief Editor of frak\ture poetry journal (Wordpress), Dec. 2018 - Apr. 2021
+- Chief Editor of frak\ture poetry journal (WordPress), Dec. 2018 - Apr. 2021
 - Short-story writing teacher for 3rd, 4th, and 5th graders, Jan. - May of 2018
 
 ---
