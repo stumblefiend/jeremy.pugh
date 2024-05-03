@@ -1,5 +1,5 @@
 ---
-title: "Examples"
+title: "Work Examples"
 permalink: "/examples.html"
 ---
 
