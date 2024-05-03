@@ -111,6 +111,17 @@ Achieved $3.9M monthly revenue in Email Marketing from inception. Created and le
 
 ---
 
+## Volunteer Experience
+
+- Marin Poetry Center (MPC) board of directors, Apr. 2023 - Jan. 2024
+- Volunteer poetry and writing tutor for 826 Valencia, Oct. 2019 - Mar. 2020
+- MPC school poetry anthology and contest coordinator, Aug. 2018 - Aug. 2020
+- Senior Submission Reader for E&GJ Press, Sept. 2018 - Mar. 2020
+- Chief Editor of frak\ture poetry journal (Wordpress), Dec. 2018 - Apr. 2021
+- Short-story writing teacher for 3rd, 4th, and 5th graders, Jan. - May of 2018
+
+---
+
 ## Hobbies
 
 Poetry, Hiking, Anything outdoors
