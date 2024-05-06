@@ -17,7 +17,7 @@ There are online tools like [charactercalculator.com](https://charactercalculato
 
 The Flesch-Kincaid readability tests, developed by Rudolf Flesch and J. Peter Kincaid, are widely used algorithms that assess the readability of English text based on factors such as sentence length and word complexity. The resulting Flesch-Kincaid reading score represents the approximate grade level required to understand the text. A high reading score indicates easier readability, while a low score suggests more complex language and longer sentences.
 
-In technical writing, aiming for a lower Flesch-Kincaid reading score can greatly enhance the accessibility and usability of documentation. By simplifying language, breaking down complex concepts into digestible chunks, and using shorter sentences, technical writers can ensure that their content is accessible to a wider audience, including users with varying levels of expertise and language proficiency.
+In technical writing, aiming for a higher Flesch-Kincaid reading score can greatly enhance the accessibility and usability of documentation. By simplifying language, breaking down complex concepts into digestible chunks, and using shorter sentences, technical writers can ensure that their content is accessible to a wider audience, including users with varying levels of expertise and language proficiency.
 
 ## Measuring Time-to-Read Metrics
 
