@@ -30,8 +30,9 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 *Style Guide*
 - New Relic - Internal Documentation Style Guide [[MHTML](/assets/docs/style-guide.mhtml) or [PDF](/assets/docs/style-guide.pdf)]
 
-*Blog Post*
-- [New Relic](/assets/docs/design-changes.pdf)
+*Blog Posts*
+- [New Relic - workgroup update](/assets/docs/rokd.pdf)
+- [New Relic - documenting change](/assets/docs/design-changes.pdf)
 
 *Editorial*
 - [frak\ture journal](/assets/docs/editorial.pdf)
