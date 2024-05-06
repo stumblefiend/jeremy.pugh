@@ -33,6 +33,9 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 *Blog Post*
 - [New Relic](/assets/docs/design-changes.pdf)
 
+*Editorial*
+- [frak\ture journal](/assets/docs/editorial.pdf)
+
 ---
 
 **1 year of experience**
