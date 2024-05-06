@@ -14,7 +14,6 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 - Cloudflare - Load Balancer API [[MHTML](/assets/docs/api.mhtml) or [PDF](/assets/docs/api.pdf)]
 - New Relic - Increase User Engagement [[MHTML](/assets/docs/engagement.mhtml) or [PDF](/assets/docs/engagement.pdf)]
 - New Relic - Cells [[MHTML](/assets/docs/cells-new-relic.mhtml) or [PDF](/assets/docs/cells-new-relic.pdf)]
-- [Cruise AV (Allied Universal) - SOP](/assets/docs/cruise-sop.pdf)
 
 ---
 
