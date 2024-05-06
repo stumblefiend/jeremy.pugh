@@ -41,8 +41,9 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 
 **1 year of experience**
 
-*Program Charter*
-- [New Relic](/assets/docs/charter-internal-docs.pdf)
+*Program Charters*
+- [New Relic internal platform docs](/assets/docs/charter-internal-docs.pdf)
+- [New Relic ROKD workgroup](/assets/docs/rokd-charter.pdf)
 
 *UX writing & design*
 - [Cloudflare SSL/TLS Tab](/assets/images/ssl-ui.png)
