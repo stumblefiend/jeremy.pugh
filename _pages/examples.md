@@ -51,8 +51,9 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 *Video Script*
 - [Cloudflare Bot Management](https://www.youtube.com/watch?v=dAl1LG7Odg4)
 
-*Newsletter*
-- Cruise AV Newsletter for the Global Security team [[MHTML](/assets/docs/cruise-newsletter.mhtml) or [PDF](/assets/docs/cruise-newsletter.pdf)]
+*Newsletters*
+- Global Security Team Newsletter [[MHTML](/assets/docs/cruise-newsletter.mhtml) or [PDF](/assets/docs/cruise-newsletter.pdf)]
+- [Global Security Team Newsletter May 2024](/assets/docs/cruise-newsletter-may-2024.pdf)
 
 ---
 
