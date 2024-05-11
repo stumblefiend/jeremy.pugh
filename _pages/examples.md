@@ -13,8 +13,7 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 - Cloudflare - 1XXX Errors [[MHTML](/assets/docs/1xxx.mhtml) or [PDF](/assets/docs/1xxx.pdf)]
 - Cloudflare - Load Balancer API [[MHTML](/assets/docs/api.mhtml) or [PDF](/assets/docs/api.pdf)]
 - New Relic - Increase User Engagement [[MHTML](/assets/docs/engagement.mhtml) or [PDF](/assets/docs/engagement.pdf)]
-- New Relic - Cells [[MHTML](/assets/docs/cells-new-relic.mhtml) or [PDF](/assets/docs/cells-new-relic.pdf)]
-- [Cruise AV (Allied Universal) - SOP](/assets/docs/cruise-sop.pdf)
+- [Cruise AV (Allied Universal) - Elevator Entrapment SOP](/assets/docs/cruise-sop.pdf)
 
 ---
 
@@ -42,7 +41,7 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 **1 year of experience**
 
 *Program Charters*
-- [New Relic internal platform docs](/assets/docs/charter-internal-docs.pdf)
+- [New Relic Internal Platform Docs](/assets/docs/charter-internal-docs.pdf)
 - [New Relic ROKD workgroup](/assets/docs/rokd-charter.pdf)
 
 *UX writing & design*
