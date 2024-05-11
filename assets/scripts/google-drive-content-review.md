@@ -1,3 +1,10 @@
+---
+title: "Google Drive Content Review"
+permalink: "/examples.html"
+---
+
+Use this as a Google Apps Script in a Google Spreadsheet to find the file name, last modified date, created date, and URL of all documents inside a folder or Google drive. Just use the Google Drive ID. Find the Google drive ID by doing X. Add the script as an Apps Script by doing Y.
+
 ```
 function listGoogleDocsInFolder(folder) {
   var files = folder.getFilesByType(MimeType.GOOGLE_DOCS);
