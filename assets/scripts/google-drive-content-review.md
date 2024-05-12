@@ -75,9 +75,23 @@ function listGoogleDocs() {
 }
 ```
 
+(add note callout) This code only provides data on Google Doc files and not Sheets, etc
+
+1. To find the starting folder ID where you want to search for documents in each subfolder, click the folder in your Google Drive and note the ID after the **f** in your browser's URL.
+
+1. Replace the default folder ID `0AKSQM_w_oOoAUk9PVA` of the Apps Script code you copied with your starting folder ID.
+
 <details>
 <summary>Click to open</summary>
 <p>If your browser supports this element, it should allow you to expand and collapse these details.</p></details>
+
+<div class="callout">
+  <div class="callout-header">Callout Header</div>
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  <div class="callout-container">
+    <p>Some text...</p>
+  </div>
+</div>
 
 Just use the Google Drive ID. Find the Google Drive ID by doing X. Add the script as an Apps Script by doing Y. It has some error detection in case you hit "Exception: Unexpected error while getting the method or property openById on object DocumentApp."
 
