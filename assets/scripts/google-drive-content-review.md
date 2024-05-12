@@ -5,9 +5,9 @@ permalink: "/google-drive.html"
 
 *Learn how to run a Google Apps Script in a Google Spreadsheet to analyze content in a Google Drive.*
 
-- [Overview](#Overview)
-- [Step 1 - Create a Google Apps Script](#Step-1-Create-a-Google-Apps-Script)
-- [Step 2 - Analyze Spreadsheet Data](#Step-2-Analyze-Spreadsheet-Data)
+- [Overview](#overview)
+- [Step 1 - Create a Google Apps Script](#step-1---create-a-google-apps-script)
+- [Step 2 - Analyze Spreadsheet Data](#step-2---analyze-spreadsheet-data)
 
 ---
 
