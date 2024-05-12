@@ -1,9 +1,23 @@
 ---
-title: "Google Drive Content Review"
+title: "Reviewing content in a Google Drive"
 permalink: "/google-drive.html"
 ---
 
+*Learn how to run a Google Apps Script in a Google Spreadsheet to analyze content in a Google Drive.*
+
+- [Overview](#Overview)
+- [Step 1 - Create a Google Apps Script](#Step-1-Create-a-Google-Apps-Script)
+- [Step 2 - Analyze Spreadsheet Data](#Step-2-Analyze-Spreadsheet-Data)
+
+---
+
+## Overview
+
+Sometimes you need to assess content in a Google Drive to identify duplicate content, outdated content for archival, and content that is overdue for re-review and approval. 
+
 Use this as a Google Apps Script in a Google Spreadsheet to find the file name, last modified date, created date, and URL of all documents inside a folder or Google drive. Just use the Google Drive ID. Find the Google drive ID by doing X. Add the script as an Apps Script by doing Y. It has some error detection in case you hit "Exception: Unexpected error while getting the method or property openById on object DocumentApp."
+
+Here are examples of how you can use the data from the script.
 
 ```
 function listGoogleDocsInFolder(folder) {
@@ -42,3 +56,11 @@ function listGoogleDocs() {
   listGoogleDocsInFolder(folder);
 }
 ```
+
+---
+
+## Step 1 - Create a Google Apps Script
+
+---
+
+## Step 2 - Analyze Spreadsheet Data
