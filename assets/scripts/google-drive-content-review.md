@@ -18,7 +18,7 @@ function listGoogleDocsInFolder(folder) {
       var lastModified = file.getLastUpdated();
       var docUrl = doc.getUrl(); // Get the document URL
 
-      sheet.appendRow([file.getName(), creationDate, lastModified, docUrl]); // Append URL to the row
+      sheet.appendRow([file.getName(), folder.getName(), creationDate, lastModified, docUrl]); // Append URL to the row
     } catch (e) {
       Logger.log("Error processing file: " + file.getName() + ", Error: " + e.toString());
     }
@@ -37,7 +37,7 @@ function listGoogleDocs() {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   
   sheet.clear(); // Clear existing data
-  sheet.appendRow(["Document Name", "Created Date", "Last Modified Date", "Document URL"]); // Add URL column
+  sheet.appendRow(["Document Name", "Folder Name", "Created Date", "Last Modified Date", "Document URL"]); // Add URL column
   
   listGoogleDocsInFolder(folder);
 }
