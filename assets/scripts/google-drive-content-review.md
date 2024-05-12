@@ -14,9 +14,9 @@ permalink: "/google-drive.html"
 
 ## Overview
 
-Sometimes you need to assess content in a Google Drive to identify duplicate content, outdated content for archival, and content that is due for re-review and approval. One way to analyze your Google Drive is via a [Google Apps Script](). A Google Apps Script is......This guide provdes a sample script you can run.
+Sometimes you need to assess content in a Google Drive to identify duplicate content, outdated content for archival, and content that is due for re-review and approval. One way to analyze your Google Drive is via a [Google Apps Script](). A Google Apps Script is......This guide provides a sample script you can run.
 
-For instance, if you run a Google Apps Script in a Google Sheet, you can have each the rows of the Sheet show data about each Google Doc in your Google Drive. Data for each document can include the last modified date, created date, and even, with a little ingenuity, the number of broken links in each doc. One piece of data you can't find via this method is the number of open comments on a document (can I add HTML to style this in blue as a tip?). 
+For instance, if you run a Google Apps Script in a Google Sheet, you can have each of the rows of the Sheet show data about each Google Doc in your Google Drive. Data for each document can include the last modified date, the created date, and even, with a little ingenuity, the number of broken links in each doc. One piece of data you can't find via this method is the number of open comments on a document (can I add HTML to style this in blue as a tip?). 
 
 After the script runs, you can determine which content to archive, consolidate, re-review, or flag for further audit. This guide shows both steps of this process:
 
@@ -74,6 +74,11 @@ function listGoogleDocs() {
   listGoogleDocsInFolder(folder);
 }
 ```
+
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
 
 Just use the Google Drive ID. Find the Google Drive ID by doing X. Add the script as an Apps Script by doing Y. It has some error detection in case you hit "Exception: Unexpected error while getting the method or property openById on object DocumentApp."
 
