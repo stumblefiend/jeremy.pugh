@@ -75,10 +75,9 @@ function listGoogleDocs() {
 }
 ```
 
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div>
+<details>
+<summary>Click to open</summary>
+<p>If your browser supports this element, it should allow you to expand and collapse these details.</p></details>
 
 Just use the Google Drive ID. Find the Google Drive ID by doing X. Add the script as an Apps Script by doing Y. It has some error detection in case you hit "Exception: Unexpected error while getting the method or property openById on object DocumentApp."
 
