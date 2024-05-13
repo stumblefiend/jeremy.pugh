@@ -36,7 +36,7 @@ Create and run a Google Apps Script using the following steps:
   ![Location of the default function code to delete](/assets/images/delete-default-code.png)
   hello
 
-  <img src="/assets/images/delete-default-code.png" class="image-border" alt="Location of the default function code to delete">
+  <img src="/assets/images/delete-default-code.png" class="image-border-medium" alt="Location of the default function code to delete">
 
 
 1. Copy and paste the following code into the Apps Script:
