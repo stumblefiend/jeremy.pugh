@@ -39,49 +39,49 @@ Create and run a Google Apps Script using the following steps:
 3. In the Apps Script window that appears, remove the default function code.
 
     <figure>
-    <img src="/assets/images/delete-default-code.png" class="image-border-medium" alt="Location of the default function code to delete.">
-    <figcaption>Figure 1 - Default function code.</figcaption>
+        <img src="/assets/images/delete-default-code.png" class="image-border-medium" alt="Location of the default function code to delete.">
+        <figcaption>Figure 1 - Default function code.</figcaption>
     </figure>
 
 4. Copy and paste the following code into the Apps Script:
 
-```
-function listGoogleDocsInFolder(folder) {
-  var files = folder.getFilesByType(MimeType.GOOGLE_DOCS); // Only looking at Documents, not spreadsheets, presentations, etc
-  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+    ```
+    function listGoogleDocsInFolder(folder) {
+      var files = folder.getFilesByType(MimeType.GOOGLE_DOCS); // Only looking at Documents, not spreadsheets, presentations, etc
+      var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   
-  while (files.hasNext()) {
-    var file = files.next();
-    try {
-      var doc = DocumentApp.openById(file.getId());
-      var creationDate = file.getDateCreated();
-      var lastModified = file.getLastUpdated();
-      var docUrl = doc.getUrl(); // Get the document URL
+      while (files.hasNext()) {
+        var file = files.next();
+        try {
+          var doc = DocumentApp.openById(file.getId());
+          var creationDate = file.getDateCreated();
+          var lastModified = file.getLastUpdated();
+          var docUrl = doc.getUrl(); // Get the document URL
 
-      sheet.appendRow([file.getName(), folder.getName(), creationDate, lastModified, docUrl]); // Append URL to the row
-    } catch (e) {
-      Logger.log("Error processing file: " + file.getName() + ", Error: " + e.toString());
+          sheet.appendRow([file.getName(), folder.getName(), creationDate, lastModified, docUrl]); // Append URL to the row
+        } catch (e) {
+          Logger.log("Error processing file: " + file.getName() + ", Error: " + e.toString());
+        }
+      }
+
+      var subfolders = folder.getFolders();
+      while (subfolders.hasNext()) {
+        var subfolder = subfolders.next();
+        listGoogleDocsInFolder(subfolder); // Recursively call the function for subfolders
+      }
     }
-  }
 
-  var subfolders = folder.getFolders();
-  while (subfolders.hasNext()) {
-    var subfolder = subfolders.next();
-    listGoogleDocsInFolder(subfolder); // Recursively call the function for subfolders
-  }
-}
-
-function listGoogleDocs() {
-  var folderId = "0AKSQM_w_oOoAUk9PVB"; // Replace with the ID of the root folder
-  var folder = DriveApp.getFolderById(folderId);
-  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+    function listGoogleDocs() {
+      var folderId = "0AKSQM_w_oOoAUk9PVB"; // Replace with the ID of the root folder
+      var folder = DriveApp.getFolderById(folderId);
+      var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   
-  sheet.clear(); // Clear existing data
-  sheet.appendRow(["Document Name", "Folder Name", "Created Date", "Last Modified Date", "Document URL"]); // Add URL column
+      sheet.clear(); // Clear existing data
+      sheet.appendRow(["Document Name", "Folder Name", "Created Date", "Last Modified Date", "Document URL"]); // Add URL column
   
-  listGoogleDocsInFolder(folder);
-}
-```
+      listGoogleDocsInFolder(folder);
+    }
+    ```
 
 <div class="alert-cyan">
   <p><span style="font-size:larger;">✎</span>
