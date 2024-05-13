@@ -560,7 +560,6 @@ a.text-dark:hover {
 	color:#fff;
 	background-color:#35bdff;
 	border-color:#35bdff;
-	padding: 5px;
 }
 .alert-cyan hr {
 	border-top-color:#1cb5ff;
@@ -804,9 +803,3 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
-
-.alert-jp { padding: 5px; background-color: rgb(255, 153, 136) !important; border: 1px solid rgb(255, 85, 51) !important; }
-
-.warning-jp { padding: 5px; background-color: rgb(255, 221, 170) !important; border: 1px solid rgb(255, 187, 102) !important; }
-
-.note-jp { padding: 5px; background-color: rgb(170, 221, 255) !important; border: 1px solid rgb(119, 204, 255) !important; }
