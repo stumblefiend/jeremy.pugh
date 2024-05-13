@@ -461,28 +461,11 @@ pre {
     height: auto; /* allows the image's height to adjust proportionally */
 }
 
-.callout {
-  /*position: fixed;
-  bottom: 35px;
-  right: 20px;*/
-  margin-left: 20px;
-  max-width: 300px;
-}
+.alert { padding: 5px; background-color: rgb(255, 153, 136); border: 1px solid rgb(255, 85, 51); }
 
-/* Callout header */
-.callout-header {
-  padding: 25px 15px;
-  background: #555;
-  font-size: 30px;
-  color: white;
-}
+.warning { padding: 5px; background-color: rgb(255, 221, 170); border: 1px solid rgb(255, 187, 102); }
 
-/* Callout container/body */
-.callout-container {
-  padding: 15px;
-  background-color: #ccc;
-  color: black
-}
+.note { padding: 5px; background-color: rgb(170, 221, 255); border: 1px solid rgb(119, 204, 255); }
 
 .pre-scrollable {
   max-height: 340px;
