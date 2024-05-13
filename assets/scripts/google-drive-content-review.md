@@ -12,7 +12,7 @@ permalink: "/google-drive.html"
 
 ---
 
-## Overview
+### Overview
 
 Sometimes you need to assess content in a Google Drive to identify duplicate content, outdated content for archival, and content that is due for re-review and approval. One way to analyze your Google Drive is via a [Google Apps Script](https://developers.google.com/apps-script/reference). Google Apps Script is JavaScript that allows you to create applications that integrate with Google Workspace applications like Gmail, Calendar, Drive, and more via built-in libraries. 
 
@@ -30,20 +30,20 @@ After the script runs, you can determine which content to archive, consolidate, 
 
 ---
 
-## Step 1 - Create a Google Apps Script
+### Step 1 - Create a Google Apps Script
 
 Create and run a Google Apps Script using the following steps:
 
 1. Open a new Google Sheet.
-1. Click **Extensions**, and select **Apps Script**.
-1. In the Apps Script window that appears, remove the default function code.
+2. Click **Extensions**, and select **Apps Script**.
+3. In the Apps Script window that appears, remove the default function code.
 
 <figure>
   <img src="/assets/images/delete-default-code.png" class="image-border-medium" alt="Location of the default function code to delete.">
   <figcaption>Figure 1 - Default function code.</figcaption>
 </figure>
 
-1. Copy and paste the following code into the Apps Script:
+4. Copy and paste the following code into the Apps Script:
 
 ```
 function listGoogleDocsInFolder(folder) {
@@ -72,7 +72,7 @@ function listGoogleDocsInFolder(folder) {
 }
 
 function listGoogleDocs() {
-  var folderId = "0AKSQM_w_oOoAUk9PVA"; // Replace with the ID of the root folder
+  var folderId = "0AKSQM_w_oOoAUk9PVB"; // Replace with the ID of the root folder
   var folder = DriveApp.getFolderById(folderId);
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   
@@ -88,9 +88,16 @@ function listGoogleDocs() {
   This code only provides data on Google Doc files and not Sheets, Slides, or other types of files.</p>
 </div>
 
-1. To find the starting folder ID where you want to search for documents in each subfolder, click the folder in your Google Drive and note the ID after the **f** in your browser's URL.
+5. To find the starting folder ID where you want to search for documents in each subfolder, click the folder in your Google Drive and note the ID after the **folders/** in your browser's URL.
 
-1. Replace the default folder ID `0AKSQM_w_oOoAUk9PVA` of the Apps Script code you copied with your starting folder ID.
+<figure>
+  <img src="/assets/images/find-folder-id.png" class="image-border-medium" alt="Location of the folder ID.">
+  <figcaption>Figure 2 - Folder ID.</figcaption>
+</figure>
+
+6. Replace the default folder ID `0AKSQM_w_oOoAUk9PVB` in the Apps Script code you copied with your starting folder ID.
+
+
 
 <details>
 <summary>Click to open</summary>
@@ -113,10 +120,10 @@ Tell them to click the right space or whatever to run the script in. What if Goo
 
 ---
 
-## Step 2 - Analyze Data
+### Step 2 - Analyze Data
 
 ---
 
-## Related resources
+### Related resources
 
 - [Google Apps Script reference documentation]()
