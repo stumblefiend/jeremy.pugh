@@ -461,12 +461,6 @@ pre {
     height: auto; /* allows the image's height to adjust proportionally */
 }
 
-.alert-jp { padding: 5px; background-color: rgb(255, 153, 136) !important; border: 1px solid rgb(255, 85, 51) !important; }
-
-.warning-jp { padding: 5px; background-color: rgb(255, 221, 170) !important; border: 1px solid rgb(255, 187, 102) !important; }
-
-.note-jp { padding: 5px; background-color: rgb(170, 221, 255) !important; border: 1px solid rgb(119, 204, 255) !important; }
-
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll; }
@@ -8473,3 +8467,9 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+.alert-jp { padding: 5px; background-color: rgb(255, 153, 136) !important; border: 1px solid rgb(255, 85, 51) !important; }
+
+.warning-jp { padding: 5px; background-color: rgb(255, 221, 170) !important; border: 1px solid rgb(255, 187, 102) !important; }
+
+.note-jp { padding: 5px; background-color: rgb(170, 221, 255) !important; border: 1px solid rgb(119, 204, 255) !important; }
