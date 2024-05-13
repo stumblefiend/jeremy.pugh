@@ -90,28 +90,33 @@ Create and run a Google Apps Script using the following steps:
 
 5. To find the starting folder ID where you want to search for documents in each subfolder, click the folder in your Google Drive and note the ID after the **folders/** in your browser's URL.
 
-<figure>
-  <img src="/assets/images/find-folder-id.png" class="image-border-medium" alt="Location of the folder ID.">
-  <figcaption>Figure 2 - Folder ID.</figcaption>
-</figure>
+    <figure>
+      <img src="/assets/images/find-folder-id.png" class="image-border-medium" alt="Location of the folder ID.">
+      <figcaption>Figure 2 - Folder ID.</figcaption>
+    </figure>
 
 6. Replace the default folder ID `0AKSQM_w_oOoAUk9PVB` in the Apps Script code you copied with your starting folder ID.
 
 7. Click the **Save project** icon.
 
-<figure>
-  <img src="/assets/images/save-project-icon.png" class="image-border-medium" alt="Location of the Save project icon.">
-  <figcaption>Figure 3 - Save project icon.</figcaption>
-</figure>
+    <figure>
+      <img src="/assets/images/save-project-icon.png" class="image-border-medium" alt="Location of the Save project icon.">
+      <figcaption>Figure 3 - Save project icon.</figcaption>
+    </figure>
 
 8. Ensure *listGoogleDocs* is selected for **Select function to run**.
 
-<figure>
-  <img src="/assets/images/function-to-run.png" class="image-border-medium" alt="Location of the Select function to run icon.">
-  <figcaption>Figure 4 - Select function to run icon.</figcaption>
-</figure>
+    <figure>
+      <img src="/assets/images/function-to-run.png" class="image-border-medium" alt="Location of the Select function to run icon.">
+      <figcaption>Figure 4 - Select function to run icon.</figcaption>
+    </figure>
 
-9. 
+9. Click **Run**.
+
+    <figure>
+      <img src="/assets/images/run-icon.png" class="image-border-medium" alt="Location of the Run icon.">
+      <figcaption>Figure 5 - Run icon.</figcaption>
+    </figure>
 
 <details>
 <summary>Click to open</summary>
