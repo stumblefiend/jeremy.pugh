@@ -454,10 +454,10 @@ pre {
     color: inherit;
     word-break: normal; }
 
-.image-border {
-    border: 2px solid black; /* sets a 2px solid black border */
+.image-border-medium {
+    border: 1px solid black; /* sets a 2px solid black border */
     padding: 5px; /* adds some padding to prevent the border from touching the image */
-    max-width: 200px; /* sets the maximum width of the image */
+    max-width: 500px; /* sets the maximum width of the image */
     height: auto; /* allows the image's height to adjust proportionally */
 }
 
