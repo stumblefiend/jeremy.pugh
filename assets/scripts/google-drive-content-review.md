@@ -35,7 +35,10 @@ Create and run a Google Apps Script using the following steps:
 1. Click **Extensions**, and select **Apps Script**.
 1. In the Apps Script window that appears, remove the default function code.
 
+<figure>
   <img src="/assets/images/delete-default-code.png" class="image-border-medium" alt="Location of the default function code to delete.">
+  <figcaption>Default function code.</figcaption>
+</figure>
 
 1. Copy and paste the following code into the Apps Script:
 
