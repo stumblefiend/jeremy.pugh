@@ -461,6 +461,29 @@ pre {
     height: auto; /* allows the image's height to adjust proportionally */
 }
 
+.callout {
+  /*position: fixed;
+  bottom: 35px;
+  right: 20px;*/
+  margin-left: 20px;
+  max-width: 300px;
+}
+
+/* Callout header */
+.callout-header {
+  padding: 25px 15px;
+  background: #555;
+  font-size: 30px;
+  color: white;
+}
+
+/* Callout container/body */
+.callout-container {
+  padding: 15px;
+  background-color: #ccc;
+  color: black
+}
+
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll; }
