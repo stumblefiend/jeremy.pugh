@@ -90,11 +90,9 @@ function listGoogleDocs() {
 <summary>Click to open</summary>
 <p>If your browser supports this element, it should allow you to expand and collapse these details.</p></details>
 
-<div class="callout">
-  <div class="callout-header">Callout Header</div>
-  <div class="callout-container">
-    <p>Some text...</p>
-  </div>
+<div class="alert">
+  <p><span style="font-size:larger;">⚠</span>
+If you french fry when you’re supposed to pizza, you’re gonna have a bad time.</p>
 </div>
 
 Just use the Google Drive ID. Find the Google Drive ID by doing X. Add the script as an Apps Script by doing Y. It has some error detection in case you hit "Exception: Unexpected error while getting the method or property openById on object DocumentApp."
