@@ -97,7 +97,21 @@ function listGoogleDocs() {
 
 6. Replace the default folder ID `0AKSQM_w_oOoAUk9PVB` in the Apps Script code you copied with your starting folder ID.
 
+7. Click the **Save project** icon.
 
+<figure>
+  <img src="/assets/images/save-project-icon.png" class="image-border-medium" alt="Location of the Save project icon.">
+  <figcaption>Figure 3 - Save project icon.</figcaption>
+</figure>
+
+8. Ensure *listGoogleDocs* is selected for **Select function to run**.
+
+<figure>
+  <img src="/assets/images/function-to-run.png" class="image-border-medium" alt="Location of the Select function to run icon.">
+  <figcaption>Figure 4 - Select function to run icon.</figcaption>
+</figure>
+
+9. 
 
 <details>
 <summary>Click to open</summary>
