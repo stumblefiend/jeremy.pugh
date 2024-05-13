@@ -90,7 +90,7 @@ function listGoogleDocs() {
 <summary>Click to open</summary>
 <p>If your browser supports this element, it should allow you to expand and collapse these details.</p></details>
 
-<div class="alert-warning">
+<div class="alert-orange">
   <p><span style="font-size:larger;">⚠</span>
 If you french fry when you’re supposed to pizza, you’re gonna have a bad time.</p>
 </div>
