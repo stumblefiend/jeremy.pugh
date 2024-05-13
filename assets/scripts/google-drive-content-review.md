@@ -16,10 +16,13 @@ permalink: "/google-drive.html"
 
 Sometimes you need to assess content in a Google Drive to identify duplicate content, outdated content for archival, and content that is due for re-review and approval. One way to analyze your Google Drive is via a [Google Apps Script](https://developers.google.com/apps-script/reference). Google Apps Script is JavaScript that allows you to create applications that integrate with Google Workspace applications like Gmail, Calendar, Drive, and more via built-in libraries. 
 
-For instance, if you run a Google Apps Script in a Google Sheet, you can have each of the rows of the Sheet show data about each Google Doc in your Google Drive. Data for each document can include the last modified date, the created date, and even, with a little ingenuity, the number of broken links in each doc. This guide provides a sample Google Apps Script you can run to retrieve information about the Google Docs in your Google Drive.
+For instance, if you run a Google Apps Script in a Google Sheet, you can have each of the rows of the Sheet show data about each Google Doc in your Google Drive. Data for each document can include the last modified date, the created date, or even the number of broken links in each doc. This guide provides a sample Google Apps Script you can run to retrieve information about the Google Docs in your Google Drive.
 
-One piece of data you can't find via this method is the number of open comments on a document (can I add HTML to style this in blue as a tip?). 
-
+<div class="alert-cyan">
+  <p><span style="font-size:larger;">✎</span>
+  You can't find the number of open comments on a document via Google Apps Script.</p>
+</div>
+ 
 After the script runs, you can determine which content to archive, consolidate, re-review, or flag for further audit. This guide shows both steps of this process:
 
 - [Step 1 - Create a Google Apps Script](#step-1---create-a-google-apps-script)
