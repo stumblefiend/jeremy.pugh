@@ -83,7 +83,10 @@ function listGoogleDocs() {
 }
 ```
 
-(add note callout) This code only provides data on Google Doc files and not Sheets, etc
+<div class="alert-cyan">
+  <p><span style="font-size:larger;">✎</span>
+  This code only provides data on Google Doc files and not Sheets, Slides, or other types of files.</p>
+</div>
 
 1. To find the starting folder ID where you want to search for documents in each subfolder, click the folder in your Google Drive and note the ID after the **f** in your browser's URL.
 
