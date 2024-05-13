@@ -560,6 +560,7 @@ a.text-dark:hover {
 	color:#fff;
 	background-color:#35bdff;
 	border-color:#35bdff;
+	padding: 5px;
 }
 .alert-cyan hr {
 	border-top-color:#1cb5ff;
