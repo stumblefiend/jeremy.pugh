@@ -85,10 +85,10 @@ Create and run a Google Apps Script using the following steps:
 
     <div class="alert-cyan">
       <p><span style="font-size:larger;">✎</span>
-      This code only provides data on Google Doc files and not Sheets, Slides, or other types of files.</p>
+      This code only provides data on Google Doc files and not Sheets, Slides, or other types of files such as documents saved in a .docx format.</p>
     </div>
 
-5. To find the starting folder ID where you want to search for documents in each subfolder, click the folder in your Google Drive and note the ID after the **folders/** in your browser's URL.
+5. To find the starting folder ID where you want to search for documents in each subfolder, click the Google Drive and note the ID after **folders/** in your browser's URL.
 
     <figure>
       <img src="/assets/images/find-folder-id.png" class="image-border-medium" alt="Location of the folder ID.">
@@ -117,6 +117,21 @@ Create and run a Google Apps Script using the following steps:
       <img src="/assets/images/run-icon.png" class="image-border-medium" alt="Location of the Run icon.">
       <figcaption>Figure 5 - Run icon.</figcaption>
     </figure>
+
+10. The **Execution log** appears and shows the Google Apps Script is running.
+11. Wait until the **Execution log** shows **Execution completed**.
+
+    <figure>
+      <img src="/assets/images/execution-complete.png" class="image-border-medium" alt="Location of the Execution complete message.">
+      <figcaption>Figure 6 - Execution complete.</figcaption>
+    </figure>
+
+    <div class="alert-cyan">
+      <p><span style="font-size:larger;">✎</span>
+      It can take several minutes for the Google Apps Script to complete execution, depending on the amount of content in the Google Drive.</p>
+    </div>
+
+12. [Review your data](xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx).
 
 <details>
 <summary>Click to open</summary>
