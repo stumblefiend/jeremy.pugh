@@ -3,7 +3,7 @@ title: "Reviewing content in a Google Drive"
 permalink: "/google-drive.html"
 ---
 
-*Learn how to run a Google Apps Script in a Google Spreadsheet to analyze documents in a Google Drive.*
+*Learn how to run a Google Apps Script in a Google Spreadsheet to analyze Google Documents in a Google Drive.*
 
 - [Overview](#overview)
 - [Step 1 - Create a Google Apps Script](#step-1---create-a-google-apps-script)
