@@ -170,12 +170,13 @@ Use the folder name column to determine if content is in the correct folders or 
 
 ---
 
-### Troubleshooting
-It has some error detection in case you hit "Exception: Unexpected error while getting the method or property openById on object DocumentApp."
+### Troubleshooting the Google Apps Script
 
-Here are examples of how you can use the data from the script.
+The example Google Apps Script in this guide has some error detection for common errors such as *Unexpected error while getting the method or property openById on object DocumentApp.* This means script execution will continue if you encounter certain common errors. 
 
-Tell them to click the right space or whatever to run the script in. What if Google App script doesn't appear as an option? How do they install?
+When running the Google Apps Script, a common error is *TypeError: Cannot read properties of undefined*. This error means that the incorrect function to run is selected. Use the...
+
+What if Google Apps script doesn't appear as an option? How do they install?
 
 ---
 
