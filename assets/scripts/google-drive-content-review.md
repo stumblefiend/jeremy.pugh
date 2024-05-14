@@ -164,9 +164,9 @@ Another useful way to use the "days since last modified" data is to average the 
 
 Check document names to ensure any naming standards are followed and to identify any duplicate content. Review any documents that cover similar topics or have similar names to see if any content can be combined or archived.
 
-#### Other
+#### Other uses
 
-- Use the folder name column to determine if content is in the correct folders.
+Use the folder name column to determine if content is in the correct folders or to identify if there are duplicate folder structures.
 
 ---
 
