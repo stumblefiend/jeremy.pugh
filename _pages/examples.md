@@ -35,7 +35,7 @@ SOP:
 **2 years of experience**
 
 *Diagrams*
-- [Allied Universal - Officer Onboarding Process at Cruise](/assets/docs/onboarding.png)
+- [Allied Universal - Officer Onboarding Process at Cruise](/assets/images/onboarding.png)
 
 *Style Guide*
 - New Relic - Internal Documentation Style Guide [[MHTML](/assets/docs/style-guide.mhtml) or [PDF](/assets/docs/style-guide.pdf)]
