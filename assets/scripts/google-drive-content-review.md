@@ -85,41 +85,40 @@ Create and run a Google Apps Script using the following steps:
 
     <div class="alert-cyan">
       <p><span style="font-size:larger;">✎</span>
-      This code only provides data on Google Doc files and not Sheets, Slides, or other types of files such as documents saved in a .docx format.</p>
+      This Google Apps Script provides the document name, created date, last modified date, URL, and containing folder name only for Google Doc files and not Sheets, Slides, or other types of files such as documents saved in a .docx format.</p>
     </div>
 
-5. To find the starting folder ID where you want to search for documents in each subfolder, click the Google Drive and note the ID after **folders/** in your browser's URL.
+6. To find the starting folder ID where you want to search for documents in each subfolder, click the Google Drive and note the ID after **folders/** in your browser's URL.
 
     <figure>
       <img src="/assets/images/find-folder-id.png" class="image-border-medium" alt="Location of the folder ID.">
       <figcaption>Figure 2 - Folder ID.</figcaption>
     </figure>
 
-6. Replace the default folder ID `0AKSQM_w_oOoAUk9PVB` in the Apps Script code you copied with your starting folder ID.
+7. Replace the default folder ID `0AKSQM_w_oOoAUk9PVB` in the Apps Script code you copied with your starting folder ID.
 
-7. Click the **Save project** icon.
+8. Click the **Save project** icon.
 
     <figure>
       <img src="/assets/images/save-project-icon.png" class="image-border-medium" alt="Location of the Save project icon.">
       <figcaption>Figure 3 - Save project icon.</figcaption>
     </figure>
 
-8. Ensure *listGoogleDocs* is selected for **Select function to run**.
+9. Ensure *listGoogleDocs* is selected for **Select function to run**.
 
     <figure>
       <img src="/assets/images/function-to-run.png" class="image-border-medium" alt="Location of the Select function to run icon.">
       <figcaption>Figure 4 - Select function to run icon.</figcaption>
     </figure>
 
-9. Click **Run**.
+10. Click **Run**.
 
     <figure>
       <img src="/assets/images/run-icon.png" class="image-border-medium" alt="Location of the Run icon.">
       <figcaption>Figure 5 - Run icon.</figcaption>
     </figure>
 
-10. The **Execution log** appears and shows the Google Apps Script is running.
-11. Wait until the **Execution log** shows **Execution completed**.
+11. The **Execution log** appears and shows the Google Apps Script is running. Wait until the **Execution log** shows **Execution completed**.
 
     <figure>
       <img src="/assets/images/execution-complete.png" class="image-border-medium" alt="Location of the Execution complete message.">
@@ -131,7 +130,31 @@ Create and run a Google Apps Script using the following steps:
       It can take several minutes for the Google Apps Script to complete execution, depending on the amount of content in the Google Drive.</p>
     </div>
 
-12. [Review your data](xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx).
+12. [Analyze your data](#step-2---analyze-data).
+
+---
+
+### Step 2 - Analyze Data
+
+After you have your data in the Google sheet, you can analyze several things about your content:
+
+- Sort by the oldest created date to identify which content could be archived.
+- Add a column and create a formula that shows the number of days since a document was last modified.
+    - Sort by this new column to identify content that hasn't been updated in over a year and make a roadmap to review the content.
+- Use the folder name column to determine if content is in the correct folders.
+- Check the document names to ensure that any naming standards are followed
+- Create a metric around the average document age and average document last modified date to help report on your progress for improving the content
+
+---
+
+### Troubleshooting
+It has some error detection in case you hit "Exception: Unexpected error while getting the method or property openById on object DocumentApp."
+
+Here are examples of how you can use the data from the script.
+
+Tell them to click the right space or whatever to run the script in. What if Google App script doesn't appear as an option? How do they install?
+
+---
 
 <details>
 <summary>Click to open</summary>
@@ -142,21 +165,8 @@ Create and run a Google Apps Script using the following steps:
 If you french fry when you’re supposed to pizza, you’re gonna have a bad time.</p>
 </div>
 
-Just use the Google Drive ID. Find the Google Drive ID by doing X. Add the script as an Apps Script by doing Y. It has some error detection in case you hit "Exception: Unexpected error while getting the method or property openById on object DocumentApp."
-
-Here are examples of how you can use the data from the script.
-
-Tell them to click the right space or whatever to run the script in. What if Google App script doesn't appear as an option? How do they install?
-
 ---
 
-
-
----
-
-### Step 2 - Analyze Data
-
----
 
 ### Related resources
 
