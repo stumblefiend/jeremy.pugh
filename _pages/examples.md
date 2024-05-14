@@ -7,12 +7,20 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 
 ---
 
- **5+ years of experience**
+**5+ years of experience**
  
- *General Documentation*
+*General Documentation*
+
+Reference:
 - Cloudflare - 1XXX Errors [[MHTML](/assets/docs/1xxx.mhtml) or [PDF](/assets/docs/1xxx.pdf)]
+
+API:
 - Cloudflare - Load Balancer API [[MHTML](/assets/docs/api.mhtml) or [PDF](/assets/docs/api.pdf)]
+
+How-to:  
 - New Relic - Increase User Engagement [[MHTML](/assets/docs/engagement.mhtml) or [PDF](/assets/docs/engagement.pdf)]
+
+SOP:
 - [Cruise AV (Allied Universal) - Elevator Entrapment SOP](/assets/docs/cruise-sop.pdf)
 
 ---
