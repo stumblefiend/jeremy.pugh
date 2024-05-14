@@ -9,19 +9,11 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 
 **5+ years of experience**
  
-*General Documentation*
-
-Reference:
+*Reference*
 - Cloudflare - 1XXX Errors [[MHTML](/assets/docs/1xxx.mhtml) or [PDF](/assets/docs/1xxx.pdf)]
 
-API:
-- Cloudflare - Load Balancer API [[MHTML](/assets/docs/api.mhtml) or [PDF](/assets/docs/api.pdf)]
-
-How-to:  
+*How-to*  
 - New Relic - Increase User Engagement [[MHTML](/assets/docs/engagement.mhtml) or [PDF](/assets/docs/engagement.pdf)]
-
-SOP:
-- [Cruise AV (Allied Universal) - Elevator Entrapment SOP](/assets/docs/cruise-sop.pdf)
 
 ---
 
@@ -51,6 +43,9 @@ SOP:
 
 **1 year of experience**
 
+*API*
+- Cloudflare - Load Balancer API [[MHTML](/assets/docs/api.mhtml) or [PDF](/assets/docs/api.pdf)]
+
 *Program Charters*
 - [New Relic Internal Platform Docs](/assets/docs/charter-internal-docs.pdf)
 - [New Relic ROKD workgroup](/assets/docs/rokd-charter.pdf)
@@ -64,6 +59,9 @@ SOP:
 *Newsletters*
 - Global Security Team Newsletter [[MHTML](/assets/docs/cruise-newsletter.mhtml) or [PDF](/assets/docs/cruise-newsletter.pdf)]
 - [Global Security Team Newsletter May 2024](/assets/docs/cruise-newsletter-may-2024.pdf)
+
+*SOP*
+- [Cruise AV (Allied Universal) - Elevator Entrapment SOP](/assets/docs/cruise-sop.pdf)
 
 ---
 
