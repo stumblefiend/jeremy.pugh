@@ -3,7 +3,7 @@ title: "Reviewing content in a Google Drive"
 permalink: "/google-drive.html"
 ---
 
-*Learn how to run a Google Apps Script in a Google Spreadsheet to analyze Google Documents in a Google Drive.*
+*Learn how to run a Google Apps Script in a Google Sheet to analyze Google Documents in a Google Drive.*
 
 - [Overview](#overview)
 - [Step 1 - Create a Google Apps Script](#step-1---create-a-google-apps-script)
@@ -136,14 +136,37 @@ Create and run a Google Apps Script using the following steps:
 
 ### Step 2 - Analyze Data
 
-After you have your data in the Google sheet, you can analyze several things about your content:
+You can analyze several things about your content when the Google sheet has data. When performing a content audit, there are several key questions to answer:
 
-- Sort by the oldest created date to identify which content could be archived.
-- Add a column and create a formula that shows the number of days since a document was last modified.
-    - Sort by this new column to identify content that hasn't been updated in over a year and make a roadmap to review the content.
+- What content can be archived?
+- What content needs review and update?
+- What content is duplicated or could be consolidated? 
+
+#### Content to archive
+
+Sort the Google Sheet by the oldest created date to identify outdated content. Also, review documents with **Copy of** at the beginning of the name.
+
+For archival permission, identify the content owners by looking at the document details or version history. When you contact someone responsible for the content, ensure you are clear on whether you plan to delete the content or move it to an archive location. If you can't find an owner or the owner no longer works for your company, you can look at the document analytics to see when it was last viewed.
+
+#### Outdated content
+
+Create a formula in the cells of a new column of the Google Sheet that shows the number of days since a document was last modified. For instance, if the date you want to analyze is in cell D2 of the Google Sheet and the dates are in a format like *4/12/2024 16:11:38*, use this formula to find the number of days old the content is from the current date:
+
+```
+=DATEDIF(DATEVALUE(MID(D2, 1, FIND(" ", D2) - 1)), TODAY(), "D")
+```
+
+Drag the formula down to calculate the # of days old for the rest of your last modified dates. Then, sort by this new "days since last modified" data to identify content that hasn't been updated in over a year (or whatever date you prefer) and make a roadmap to review the content further.
+
+Another useful way to use the "days since last modified" data is to average the days. The "average days since last modified" is a metric to measure and report on the health of the content in your Google Drive. 
+
+#### Duplicate content
+
+Check document names to ensure any naming standards are followed and to identify any duplicate content. Review any documents that cover similar topics or have similar names to see if any content can be combined or archived.
+
+#### Other
+
 - Use the folder name column to determine if content is in the correct folders.
-- Check the document names to ensure that any naming standards are followed
-- Create a metric around the average document age and average document last modified date to help report on your progress for improving the content
 
 ---
 
