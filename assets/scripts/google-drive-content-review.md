@@ -45,7 +45,7 @@ Create and run a Google Apps Script using the following steps:
 
 4. Copy and paste the following code into the Apps Script:
 
-    ```
+    ```javascript
     function listGoogleDocsInFolder(folder) {
       var files = folder.getFilesByType(MimeType.GOOGLE_DOCS); // Only looking at Documents, not spreadsheets, presentations, etc
       var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
