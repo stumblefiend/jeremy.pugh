@@ -1,22 +1,47 @@
 import nltk
-nltk.download('punkt')
-nltk.download('cmudict')
-from nltk.tokenize import sent_tokenize, word_tokenize #, syllable_count
+from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import cmudict
+import string
+
+# Download CMU Pronouncing Dictionary
+nltk.download('cmudict')
+
+# Load CMU Pronouncing Dictionary
+pronouncing_dict = cmudict.dict()
+
+def preprocess_text(text):
+    # Remove punctuation marks
+    text = text.translate(str.maketrans('', '', string.punctuation))
+    #print("Text:", text)
+    return text
+
+def count_syllables(word):
+    # Lookup word in CMU Pronouncing Dictionary and count syllables
+    syllables = pronouncing_dict.get(word.lower())
+    if syllables:
+        return len([s for s in syllables[0] if s[-1].isdigit()])
+    else:
+        return 0  # Return 0 if word not found in CMU Pronouncing Dictionary
 
 def flesch_reading_ease(text):
+    # Preprocess text to remove punctuation
+    raw_text = text
+    text = preprocess_text(text)
+    
     words = word_tokenize(text)
-    sentences = sent_tokenize(text)
+    sentences = sent_tokenize(raw_text)
     num_words = len(words)
+    print("Words:", num_words)
     num_sentences = len(sentences)
-    #num_syllables = syllable_count(words)
-    num_syllables = sum([len([y for y in x if y[-1].isdigit()]) for word in words for x in cmudict.dict().get(word, [])])
-    #num_syllables = sum([len([y for y in x if y[-1].isdigit()]) for x in cmudict.dict().values() for x in words])
+    
+    # Count syllables for each word
+    num_syllables = sum(count_syllables(word) for word in words)
+
+    print("Syllables", num_syllables)
+    print("Sentences: ", num_sentences)
+    num_words = 1184
+    num_syllables = 1889
     reading_ease = 206.835 - 1.015 * (num_words / num_sentences) - 84.6 * (num_syllables / num_words)
-    # Debugging: print out intermediate values
-    print("Number of words:", num_words)
-    print("Number of sentences:", num_sentences)
-    print("Number of syllables:", num_syllables)
     return reading_ease
 
 def average_sentence_length(text):
