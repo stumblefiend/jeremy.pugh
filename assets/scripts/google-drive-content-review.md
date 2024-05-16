@@ -51,6 +51,7 @@ Create and run a Google Apps Script using the following steps:
 4. Copy and paste the following code into the Apps Script:
 
     {% include codeHeader.html %}
+   
     ```javascript
     function listGoogleDocsInFolder(folder) {
       var files = folder.getFilesByType(MimeType.GOOGLE_DOCS); // Only looking at Documents, not spreadsheets, presentations, etc
@@ -88,7 +89,6 @@ Create and run a Google Apps Script using the following steps:
       listGoogleDocsInFolder(folder);
     }
     ```
-    <button class="copy-button" data-clipboard-target=".code-block">Copy</button>
 
     <div class="alert-cyan">
       <p><span style="font-size:larger;">✎</span>
