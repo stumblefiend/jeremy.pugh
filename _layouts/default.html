@@ -71,23 +71,6 @@
 
     <script src="{{site.baseurl}}/assets/js/theme.js"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            var clipboard = new ClipboardJS('.copy-button');
-
-            clipboard.on('success', function (e) {
-                e.clearSelection();
-                console.log('Copied to clipboard!');
-            });
-
-            clipboard.on('error', function (e) {
-                console.error('Failed to copy to clipboard:', e.action);
-            });
-        });
-    </script>
-
 
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
