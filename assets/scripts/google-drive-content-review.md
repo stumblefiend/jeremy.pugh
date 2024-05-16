@@ -14,16 +14,16 @@ permalink: "/google-drive.html"
 
 ### Overview
 
-Sometimes you need to assess content in a Google Drive to find duplicate content, outdated content to archive, and content due for review. One way to assess your Google Drive is via a [Google Apps Script](https://developers.google.com/apps-script/reference). Google Apps Script is JavaScript that lets you to make applications that integrate with Google Workspace applications like Gmail, Calendar, Drive, and more via built-in libraries. 
+Need to see what duplicate and outdated content is in your Google Drive? Assess your Google Drive content via a [Google Apps Script](https://developers.google.com/apps-script/reference). Google Apps Script is JavaScript that lets you make applications that integrate with Gmail, Calendar, Drive, and other Google Workspace apps via built-in libraries. 
 
-For instance, you can run a Google Apps Script in a Google Sheet that pulls data about each Google Doc in your Google Drive. Data for each document can include the last modified date, the created date, or even the number of broken links in each doc. This guide provides a sample Google Apps Script you can run to retrieve details about the Google Docs in your Google Drive.
+For instance, Google Apps Script can run in a Google Sheet to add data about each Google Doc in your Google Drive. Data for each document can include the last modified date, the created date, data from Google Analytics, or even the number of broken links in each doc. This guide provides a sample Google Apps Script you can run to retrieve details about the Google Docs in your Google Drive.
 
 <div class="alert-cyan">
   <p><span style="font-size:larger;">✎</span>
   Google Apps Script can't show the number of open comments on a document.</p>
 </div>
  
-After the script runs, you can determine which content to archive, consolidate, re-review, or flag for further audit. This guide shows both steps of this process:
+After the script runs, determine which content to archive, consolidate, or review. This guide shows both steps of this process:
 
 - [Step 1 - Create a Google Apps Script](#step-1---create-a-google-apps-script)
 - [Step 2 - Analyze data](#step-2---analyze-data)
