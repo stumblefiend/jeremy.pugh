@@ -91,7 +91,7 @@ Create and run a Google Apps Script using the following steps:
 
     <div class="alert-cyan">
       <p><span style="font-size:larger;">✎</span>
-      This Google Apps Script provides the document name, created date, last modified date, URL, and containing folder name only for Google Doc files and not Sheets, Slides, or other types of files such as documents saved in a .docx format.</p>
+      This example Google Apps Script provides the document name, created date, last modified date, URL, and folder name only for Google Doc files.</p>
     </div>
 
 6. To find the starting folder ID where you want to search for documents in each subfolder, click the Google Drive and note the ID after **folders/** in your browser's URL.
@@ -101,7 +101,7 @@ Create and run a Google Apps Script using the following steps:
       <figcaption>Figure 2 - Folder ID.</figcaption>
     </figure>
 
-7. Replace the default folder ID `0AKSQM_w_oOoAUk9PVB` in the Apps Script code you copied with your starting folder ID.
+7. Replace the default folder ID `0AKSQM_w_oOoAUk9PVB` in the Apps Script with your starting folder ID.
 
 8. Click the **Save project** icon.
 
@@ -133,7 +133,7 @@ Create and run a Google Apps Script using the following steps:
 
     <div class="alert-cyan">
       <p><span style="font-size:larger;">✎</span>
-      It can take several minutes for the Google Apps Script to complete execution, depending on the amount of content in the Google Drive.</p>
+      It can take several minutes for the Google Apps Script to complete depending on the amount of content in the Google Drive.</p>
     </div>
 
 12. [Analyze your data](#step-2---analyze-data).
@@ -142,7 +142,7 @@ Create and run a Google Apps Script using the following steps:
 
 ### Step 2 - Analyze Data
 
-When the Google sheet has data, seek answers to these questions about your content:
+When the Google sheet has data, seek answers to these questions:
 
 - What documents need archival?
 - Which content needs review and update?
@@ -164,25 +164,23 @@ Create a formula in the cells of a new column of the Google Sheet that shows the
 =DATEDIF(DATEVALUE(MID(D2, 1, FIND(" ", D2) - 1)), TODAY(), "D")
 ```
 
-Drag the formula down to calculate the # of days old for the rest of your last modified dates. Then, sort by this new "days since last modified" data to identify content that hasn't been updated in over a year (or whatever date you prefer) and make a roadmap to review the content further.
+Drag the formula down to calculate the number of days old for the rest of your last modified dates. Then, sort by this new "days since last modified" data to find content over a year old(or whatever date you prefer) and make a plan to review the content further. Share your data with stakeholders to find the priority content to update.
 
 Another useful way to use the "days since last modified" data is to average the days. The "average days since last modified" is a metric to measure and report on the health of the content in your Google Drive. 
 
-Overall, build a review plan. Share your data with stakeholders to find the priority content to update.
-
 #### Duplicate content
 
-Check document names to ensure any naming standards are followed and to identify any duplicate content. Review any documents that cover similar topics or have similar names to see if any content can be combined or archived.
+Check document names to ensure any naming standards are followed and to identify any duplicate content. Review any documents that cover similar topics or have similar names to see if content can be combined or archived.
 
 #### Other uses
 
-Use the folder name column to check if content is in the correct folders or to see if there are duplicate folder structures.
+Use the folder name column to check if content is in the correct folders or to find duplicate folder structures.
 
 ---
 
 ### Troubleshooting the Google Apps Script
 
-The example Google Apps Script in this guide has error detection for common errors such as *Unexpected error while getting the method or property openById on object DocumentApp.* This means script execution continues if certain common errors occur. However, you may encounter errors in different areas of code that need error handling. All errors appear in the **Execution log**.
+The example Google Apps Script in this guide has error detection for common errors such as *Unexpected error while getting the method or property openById on object DocumentApp.* This means script execution continues if certain common errors occur. However, you may encounter errors in other areas of code that need error handling. All errors appear in the **Execution log**.
 
 When running the Google Apps Script, a common error is *TypeError: Cannot read properties of undefined*. This error means the wrong function to run is selected. Use the **Select function to run** dropdown to select *listGoogleDocs*.
 
