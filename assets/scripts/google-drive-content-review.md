@@ -49,8 +49,9 @@ Create and run a Google Apps Script using the following steps:
     </figure>
 
 4. Copy and paste the following code into the Apps Script:
-   
-    ```javascript
+
+    {% highlight javascript %}
+    ```
     function listGoogleDocsInFolder(folder) {
       var files = folder.getFilesByType(MimeType.GOOGLE_DOCS); // Only looking at Documents, not spreadsheets, presentations, etc
       var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
@@ -87,7 +88,8 @@ Create and run a Google Apps Script using the following steps:
       listGoogleDocsInFolder(folder);
     }
     ```
-
+    {% endhighlight %}
+   
     <div class="alert-cyan">
       <p><span style="font-size:larger;">✎</span>
       This example Google Apps Script provides the document name, created date, last modified date, URL, and folder name only for Google Doc files.</p>
