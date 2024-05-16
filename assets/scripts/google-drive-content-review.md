@@ -87,6 +87,7 @@ Create and run a Google Apps Script using the following steps:
       listGoogleDocsInFolder(folder);
     }
     ```
+    <button class="copy-button" data-clipboard-target=".code-block">Copy</button>
 
     <div class="alert-cyan">
       <p><span style="font-size:larger;">✎</span>
