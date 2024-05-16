@@ -198,9 +198,6 @@ If you french fry when you’re supposed to pizza, you’re gonna have a bad tim
 </div>
 -->
 
----
-
-
 ### Related resources
 
 - [Google Apps Script reference documentation]()
