@@ -32,10 +32,10 @@ After the script runs, you can determine which content to archive, consolidate, 
 
 ### Step 1 - Create a Google Apps Script
 
-    <div class="alert-cyan">
-      <p><span style="font-size:larger;">✎</span>
-      When you first use a Google Apps Script, a pop-up window asks for access to your Google Drive.</p>
-    </div>
+<div class="alert-cyan">
+  <p><span style="font-size:larger;">✎</span>
+  When you first use a Google Apps Script, a pop-up window asks for access to your Google Drive.</p>
+</div>
 
 Create and run a Google Apps Script using the following steps:
 
