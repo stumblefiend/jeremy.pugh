@@ -32,6 +32,11 @@ After the script runs, you can determine which content to archive, consolidate, 
 
 ### Step 1 - Create a Google Apps Script
 
+    <div class="alert-cyan">
+      <p><span style="font-size:larger;">✎</span>
+      When you first use a Google Apps Script, a pop-up window asks for access to your Google Drive.</p>
+    </div>
+
 Create and run a Google Apps Script using the following steps:
 
 1. Open a new Google Sheet.
@@ -136,11 +141,13 @@ Create and run a Google Apps Script using the following steps:
 
 ### Step 2 - Analyze Data
 
-You can analyze several things about your content when the Google sheet has data. When performing a content audit, there are several key questions to answer:
+When the Google sheet has data, seek answers to these questions about your content:
 
-- What content can be archived?
-- What content needs review and update?
-- What content is duplicated or could be consolidated? 
+- What documents need archival?
+- Which content needs review and update?
+- Which documents look duplicated?
+- What content is in the wrong folder?
+- What is the average time these documents were last modified?
 
 #### Content to archive
 
@@ -160,23 +167,25 @@ Drag the formula down to calculate the # of days old for the rest of your last m
 
 Another useful way to use the "days since last modified" data is to average the days. The "average days since last modified" is a metric to measure and report on the health of the content in your Google Drive. 
 
+Overall, build a review plan. Share your data with stakeholders to find the priority content to update.
+
 #### Duplicate content
 
 Check document names to ensure any naming standards are followed and to identify any duplicate content. Review any documents that cover similar topics or have similar names to see if any content can be combined or archived.
 
 #### Other uses
 
-Use the folder name column to determine if content is in the correct folders or to identify if there are duplicate folder structures.
+Use the folder name column to check if content is in the correct folders or to see if there are duplicate folder structures.
 
 ---
 
 ### Troubleshooting the Google Apps Script
 
-The example Google Apps Script in this guide has some error detection for common errors such as *Unexpected error while getting the method or property openById on object DocumentApp.* This means script execution will continue if you encounter certain common errors. 
+The example Google Apps Script in this guide has error detection for common errors such as *Unexpected error while getting the method or property openById on object DocumentApp.* This means script execution continues if certain common errors occur. However, you may encounter errors in different areas of code that need error handling. All errors appear in the **Execution log**.
 
-When running the Google Apps Script, a common error is *TypeError: Cannot read properties of undefined*. This error means that the incorrect function to run is selected. Use the...
+When running the Google Apps Script, a common error is *TypeError: Cannot read properties of undefined*. This error means the wrong function to run is selected. Use the **Select function to run** dropdown to select *listGoogleDocs*.
 
-What if Google Apps script doesn't appear as an option? How do they install?
+If Google Apps script doesn't appear as an option in the *Extensions* of your Google Sheet, or you see errors not mentioned in this guide, [consult Google's Apps Script troubleshooting docs](https://developers.google.com/apps-script/guides/support/troubleshooting).
 
 ---
 
