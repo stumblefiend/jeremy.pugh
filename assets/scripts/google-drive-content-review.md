@@ -50,8 +50,7 @@ Create and run a Google Apps Script using the following steps:
 
 4. Copy and paste the following code into the Apps Script:
 
-    {% highlight javascript %}
-    ```
+    ```javascript
     function listGoogleDocsInFolder(folder) {
       var files = folder.getFilesByType(MimeType.GOOGLE_DOCS); // Only looking at Documents, not spreadsheets, presentations, etc
       var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
@@ -88,7 +87,6 @@ Create and run a Google Apps Script using the following steps:
       listGoogleDocsInFolder(folder);
     }
     ```
-    {% endhighlight %}
    
     <div class="alert-cyan">
       <p><span style="font-size:larger;">✎</span>
