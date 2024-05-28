@@ -35,6 +35,7 @@ Meticulous technical writer dedicated to metric-based approaches to clear, conci
 - Jekyll
 - Liquid
 - Docker
+- WordPress
 
 **2 years**
 - CSS
