@@ -53,21 +53,36 @@ Meticulous technical writer dedicated to metric-based approaches to clear, conci
 
 University of Alabama, Huntsville
 
-- MS in Management Information Systems - 2007
-- BS in Business Administration - 2005
+- MS in Management Information Systems — 2007
+- BS in Business Administration — 2005
 
 **Certificates**
 
-- IBM AI Developer - 2024
-- Google Career Certificate in Project Management - 2023
-- Certificate in Cybersecurity, University of Alabama, Huntsville - 2007
+- Machine Learning, Stanford — 2024
+- SEO, HubSpot — 2024
+- AI Developer, IBM — 2024
+- Project Management, Google — 2023
+- Cybersecurity, University of Alabama, Huntsville — 2007
 
 ---
 
 # Work Experience
 
+**Bunny.net, Remote** — *Senior Technical Content Writer, Marketing*
+August 2024 — August 2025
+
+Created case studies, blog posts, Technical content for LinkedIn, diagrams, backgrounds and personalities for bunny characters, and lead creative writing workshops.
+
+- Led creative writing workshops for the Marketing team to improve storytelling across customer-facing content.
+- Authored high-impact blog posts and LinkedIn articles on product updates, technical deep-dives, and industry pain points.
+- Reduced tickets related to our learning academy content through proactive content improvements and by creating a custom, API-based content auditing tool for SEO, image usage, link health, categories, etc.
+- Designed 30+ technical diagrams in Figma.
+- Developed internal training courses using TutorLMS to onboard new hires efficiently on Bunny.net products and processes.
+- Scripted educational videos for our learning academy’s top technical content.
+- Created knowledge-assessment quizzes for learning academy users.
+
 **Allied Universal, Remote** — *Lead Technical Writer, Physical Security*
-September 2023 - Present
+August 2023 — August 2024
 
 Oversaw the management of training content, Post Orders, and Standard Operating Procedures (SOPs) for global security staff and security operations centers. I've spearheaded initiatives to streamline processes, reduce maintenance overhead, and enhance readability scores, ultimately optimizing operational efficiency.
 
@@ -77,7 +92,7 @@ Oversaw the management of training content, Post Orders, and Standard Operating 
 - Created a newsletter program to ensure security staff stay current with events and changes to the security program.
 
 **New Relic, Remote** — *Senior Technical Writer, Engineering*
-April 2021 - August 2023
+April 2021 — August 2023
 
 Promotions: Technical Writer --> Senior Technical Writer
 
@@ -97,7 +112,7 @@ Played a pivotal role in maintaining critical internal platform documentation fo
 - Measured the health and impact of the knowledge-management program through surveys, Google Analytics, and Flesch-Kincaid reading scores.
 
 **Cloudflare, San Francisco** — *Content Designer, Technical Writer*
-February 2017 - March 2021
+February 2017 — March 2021
 
 Authored public-facing incident reports for Fortune 500 customers, published UI microcopy, and revamped Zendesk support guides into Contentful articles. My collaborative approach with subject matter experts ensured an accurate and relevant knowledge base for our users.
 
@@ -108,7 +123,7 @@ Authored public-facing incident reports for Fortune 500 customers, published UI 
 - Worked with subject matter experts and the Cloudflare community to ensure an accurate and relevant knowledge base.
 
 **Dell Technologies, San Francisco** — *Senior Software Engineer*
-September 2014 - February 2017
+September 2014 — February 2017
 
 Promotions: Technical Support Engineer --> Software Engineer --> Senior Software Engineer
 
@@ -121,7 +136,7 @@ Showcased our private cloud product at OpenStack conferences and led Agile team 
 - Reviewed product documentation for clarity and accuracy.
 
 **Ad Revolution, Los Angeles** - *Director of Email Marketing*
-January 2008 - September 2014
+January 2008 — September 2014
 
 Promotions: Engineer --> Sr. Engineer --> Manager of Email Marketing --> Director of Email Marketing
 
@@ -142,7 +157,7 @@ Achieved $3.9M monthly revenue in Email Marketing from inception. Created and le
 # Part-time Work Experience
 
 **Remotasks, Remote** — *AI Poetry Expert*
-APRIL 2023 - JANUARY 2024
+APRIL 2023 — JANUARY 2024
 - Revised AI-generated poetry to train AI models on traditional poet styles and poetry forms.
 - Wrote poetry prompts and critiqued AI responses for accuracy, tone, helpfulness, and presentation.
 
@@ -150,12 +165,13 @@ APRIL 2023 - JANUARY 2024
 
 # Volunteer Experience
 
-- Marin Poetry Center (MPC) board of directors, Apr. 2023 - Jan. 2024
-- Volunteer poetry and writing tutor for 826 Valencia, Oct. 2019 - Mar. 2020
-- MPC school poetry anthology and contest coordinator, Aug. 2018 - Aug. 2020
-- Senior Submission Reader for E&GJ Press, Sept. 2018 - Mar. 2020
-- Chief Editor of frak\ture poetry journal (WordPress), Dec. 2018 - Apr. 2021
-- Short-story writing teacher for 3rd, 4th, and 5th graders, Jan. - May of 2018
+* [Write the Docs](https://www.writethedocs.org/) Newsletter and Site SEO & Content, Mar. 2024 - Aug. 2024
+* [Google Technical Writing](https://developers.google.com/tech-writing) Course Instructor, May 2024 - Oct. 2024 
+* [Marin Poetry Center](https://marinpoetrycenter.org/) high school poetry anthology and contest coordinator, Aug. 2018 - Aug. 2020 
+* Senior poetry submission reader for E&GJ Press, Sept. 2018 - Mar. 2020
+* Chief Editor of frak\ture poetry journal, Dec. 2018 - Apr. 2021
+* Short-story and poetry teacher (3rd - 5th grades), Jan. - May 2018
+* [826 Valencia](https://www.826valencia.org/) poetry and writing tutor, Oct. 2019 - Mar. 2020
 
 ---
 
