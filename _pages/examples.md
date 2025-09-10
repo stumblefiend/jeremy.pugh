@@ -34,6 +34,12 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 - New Relic - Internal Documentation Style Guide [[MHTML](/assets/docs/style-guide.mhtml) or [PDF](/assets/docs/style-guide.pdf)]
 
 *Blog Posts*
+* [improving-our-free-trial-more-flexibility-and-a-better-experience](https://bunny.net/blog/improving-our-free-trial-more-flexibility-and-a-better-experience/)  
+* [premium-encoding-hops-ahead-now-supporting-h-265-and-av1](https://bunny.net/blog/premium-encoding-hops-ahead-now-supporting-h-265-and-av1/)  
+* [building-a-privacy-first-platform-at-bunny-net-tools-to-safeguard-data-and-build-trust](https://bunny.net/blog/building-a-privacy-first-platform-at-bunny-net-tools-to-safeguard-data-and-build-trust/)  
+* [dreaming-of-faster-websites-bunny-net-now-partners-with-dreamhost-to-make-it-a-reality](https://bunny.net/blog/dreaming-of-faster-websites-bunny-net-now-partners-with-dreamhost-to-make-it-a-reality/)  
+* [hopping-towards-innovation-your-voices-role-in-our-mission](https://bunny.net/blog/hopping-towards-innovation-your-voices-role-in-our-mission/)  
+* [help-us-shape-the-future-of-the-internet](https://bunny.net/blog/help-us-shape-the-future-of-the-internet/)
 - [New Relic - workgroup update](/assets/docs/rokd.pdf)
 - [New Relic - documenting change](/assets/docs/design-changes.pdf)
 
@@ -64,10 +70,4 @@ This page contains examples of content I've created. I've provided MHTML and PDF
 *SOP*
 - [Cruise AV (Allied Universal) - Elevator Entrapment SOP](/assets/docs/cruise-sop.pdf)
 
----
 
-**7 years of experience**
-
-*Poems*
-- [a fantasia](/assets/docs/a-fantasia.pdf)
-- [Bible Versus](/assets/docs/bible-versus.pdf)
