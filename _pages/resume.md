@@ -3,12 +3,6 @@ title: "Resume"
 permalink: "/resume.html"
 ---
 
-# Objective
-
-Meticulous technical writer dedicated to metric-based approaches to clear, concise, findable, and user-friendly documentation for global Fortune 500 companies. Adept in project leadership, content strategy, and result measurement. Seeking to leverage expertise in a challenging environment that requires entrepreneurial approaches.
-
----
-
 # Skills
 
 **12 years**
